@@ -1,0 +1,11 @@
+common:
+  experiment_dirname: /home/pool/pylaia_test/PyLaia_LLM/models/experiments_100
+decode:
+  convert_spaces: true
+  join_string: ''
+img_dirs:
+- resources/datasets/washington
+img_list: /home/pool/pylaia_test/PyLaia_LLM/resources/datasets/washington/test_ids.txt
+syms: resources/datasets/washington/syms.txt
+trainer:
+  gpus: 0

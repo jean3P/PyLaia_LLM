@@ -1,0 +1,40 @@
+adaptive_pooling: avgpool-8  # Adapted for finer granularity in feature pooling
+crnn:
+  cnn_activation:
+    - LeakyReLU
+    - LeakyReLU
+    - LeakyReLU
+    - LeakyReLU
+  cnn_batchnorm:
+    - true
+    - true
+    - true
+    - true
+  cnn_dilation:
+    - 1
+    - 1
+    - 1
+    - 1
+  cnn_kernel_size:
+    - 3
+    - 3
+    - 3
+    - 3
+  cnn_num_features:
+    - 16  # Enhanced to capture more detailed features
+    - 32  # Enhanced for deeper feature extraction
+    - 64  # Enhanced for complex pattern recognition
+    - 64  # Maintained to manage model complexity
+  cnn_poolsize:
+    - 2   # Maintains initial spatial reduction
+    - 2   # Continues spatial reduction
+    - 2   # Changed from 0 to 2 to further reduce feature map size
+    - 2   # Maintains spatial reduction to appropriate level
+  lin_dropout: 0.4  # Slightly reduced to optimize training
+  rnn_dropout: 0.4  # Adjusted to prevent overfitting
+  rnn_layers: 3  # Keeps the depth of the recurrent network
+  rnn_type: LSTM  # Utilizes LSTM for sequence processing
+  rnn_units: 280  # Increased to enhance memory and processing power
+fixed_input_height: 128  # Specifies the input image height for consistency
+save_model: true  # Enables model saving after training
+syms: resources/datasets/washington/syms.txt

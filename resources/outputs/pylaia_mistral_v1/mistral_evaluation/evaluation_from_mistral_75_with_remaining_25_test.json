@@ -1,0 +1,1982 @@
+[
+    {
+        "file_name": "302-08.png",
+        "ground_truth_label": "we are disappointed off shoes and stockings",
+        "OCR": {
+            "predicted_label": "ue aure disappointed of hhoes and stoahings",
+            "cer": 71.43,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "we are disappointed of shoes and stockings",
+            "cer": 2.33,
+            "confidence": 90,
+            "justification": "The word 'ue' is replaced with 'we' as it seems to be a contextually appropriate correction. The word 'aure' is replaced with 'of' as it seems to be a contextually appropriate correction. The word 'disappointed' is replaced with 'disappointed' as"
+        }
+    },
+    {
+        "file_name": "302-06.png",
+        "ground_truth_label": "can be got in these parts those which major",
+        "OCR": {
+            "predicted_label": "cant be got in these pats thoe which haygon",
+            "cer": 44.44,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "can be got in these parts those which major",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The words 'cant' and 'thoe' are replaced with 'can' and 'those' respectively as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "302-10.png",
+        "ground_truth_label": "nothing else i should be glad your honor",
+        "OCR": {
+            "predicted_label": "nothing alse i thould be pfad your honor",
+            "cer": 37.5,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "nothing else I should be glad your honor",
+            "cer": 2.5,
+            "confidence": 90,
+            "justification": "The word 'thould' is replaced with'should' as it seems to be a contextually appropriate correction. The addition of 'I' after 'nothing' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "302-07.png",
+        "ground_truth_label": "carlyle and dalton contracted to furnish",
+        "OCR": {
+            "predicted_label": "carlyle and ialton contracled to cumith",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "carlyle and dalton contracted to furnish",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'carlyle' is replaced with 'carlyle' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "302-11.png",
+        "ground_truth_label": "would direct what is to be done in these ca",
+        "OCR": {
+            "predicted_label": "mould direct whal i to be dome in these a",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "would direct what is to be done in these cases",
+            "cer": 6.98,
+            "confidence": 90,
+            "justification": "The word'mould' is replaced with 'would' as it seems to be a contextually appropriate correction. The word 'whal' is replaced with 'what' and 'i' is replaced with 'is' as they seem to be context"
+        }
+    },
+    {
+        "file_name": "302-09.png",
+        "ground_truth_label": "we have and can get more if wanted but",
+        "OCR": {
+            "predicted_label": "one hare and cen gt more if wanted fat",
+            "cer": 55.56,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "one hare and can get more if wanted fat",
+            "cer": 13.16,
+            "confidence": 90,
+            "justification": "The word 'gt' is replaced with 'can' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "302-04.png",
+        "ground_truth_label": "small duration we shall also in a little time",
+        "OCR": {
+            "predicted_label": "cmall duration he chall als in a lale tione",
+            "cer": 66.67,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "small duration we shall also in a little time",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'cmall' is replaced with'small' as it seems to be a contextually appropriate correction. The word 'chall' is replaced with'shall' as it seems to be a contextually appropriate correction. The word 'als' is replaced with 'also' as it"
+        }
+    },
+    {
+        "file_name": "302-05.png",
+        "ground_truth_label": "suffer as much for want of clothing none",
+        "OCR": {
+            "predicted_label": "sufer as much for want of clothigy none",
+            "cer": 25.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "suffer as much for want of clothing, none",
+            "cer": 2.5,
+            "confidence": 90,
+            "justification": "The word'sufer' is replaced with'suffer' as it seems to be a contextually appropriate correction. The word 'as' is replaced with 'for' and the word 'none' is added as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "302-15.png",
+        "ground_truth_label": "might often get necessaries for the regiment",
+        "OCR": {
+            "predicted_label": "migt fens gt mecesaies for the regiment",
+            "cer": 57.14,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "might often get necessaries for the regiment",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word'migt' is replaced with'might' and the word 'fens' is replaced with 'often' as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "302-16.png",
+        "ground_truth_label": "in maryland or pennsylvania when they",
+        "OCR": {
+            "predicted_label": "an baryland or iemmgoania whem thy",
+            "cer": 83.33,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "in Maryland or Pennsylvania when they",
+            "cer": 5.41,
+            "confidence": 90,
+            "justification": "The words 'an baryland or iemmgoania' are replaced with 'in Maryland or Pennsylvania' as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "302-13.png",
+        "ground_truth_label": "desire the treasurer to send some part of the",
+        "OCR": {
+            "predicted_label": "dhesire the freasurer to send some pat of the",
+            "cer": 33.33,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "desire the treasurer to send some part of the",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'dhesire' is replaced with 'desire' as it seems to be a contextually appropriate correction. The word 'freasurer' is replaced with 'treasurer' as it seems to be a contextually appropriate correction. The word 'pat' is replaced"
+        }
+    },
+    {
+        "file_name": "302-18.png",
+        "ground_truth_label": "it is is impossible our paper not passing there",
+        "OCR": {
+            "predicted_label": "itf is is impofsilley orer paper not pafing there",
+            "cer": 44.44,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "it is impossible our paper not passing there",
+            "cer": 6.38,
+            "confidence": 90,
+            "justification": "The words 'itf is is' are replaced with 'it is' and 'pafing' is replaced with 'passing' as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "302-17.png",
+        "ground_truth_label": "can not be had here but with our money",
+        "OCR": {
+            "predicted_label": "can not be had here bat with our money",
+            "cer": 11.11,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "cannot be had here, but with our money",
+            "cer": 5.26,
+            "confidence": 90,
+            "justification": "The word 'bat' is replaced with 'but' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "302-12.png",
+        "ground_truth_label": "ses and that you would be kind enough to",
+        "OCR": {
+            "predicted_label": "ses and that you mould be hind enough to",
+            "cer": 22.22,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "ses and that you would be kind enough to",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word'mould' is replaced with 'would' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "302-14.png",
+        "ground_truth_label": "money in gold and silver were this done we",
+        "OCR": {
+            "predicted_label": "money in pold and siloer were this dlome ae",
+            "cer": 44.44,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "money in gold and silver were this done we",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The words 'pold' and'siloer' are replaced with 'gold' and'silver' as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "302-19.png",
+        "ground_truth_label": "the recruiting service goes on ex",
+        "OCR": {
+            "predicted_label": "the receruiting cenoide yoes on ep",
+            "cer": 66.67,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "the recruiting service goes on ex",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'cenoide' is replaced with 'ex' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "302-27.png",
+        "ground_truth_label": "never having given any particular directi",
+        "OCR": {
+            "predicted_label": "mever hagingy gven any particuclar direcli",
+            "cer": 83.33,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "never having given any particular direction",
+            "cer": 4.88,
+            "confidence": 90,
+            "justification": "The word'mever' is replaced with 'never' and the word 'hagingy' is replaced with 'having' as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "302-21.png",
+        "ground_truth_label": "for rendezvousing at this place there came in",
+        "OCR": {
+            "predicted_label": "for rendegvousingy at this plae there came in",
+            "cer": 25.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "for rendezvousing at this place there came in",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word'rendegvousingy' is replaced with'rendezvousing' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "302-20.png",
+        "ground_truth_label": "tremely slow yesterday being a day appointed",
+        "OCR": {
+            "predicted_label": "tremnely shom besterday being a day appainted",
+            "cer": 57.14,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "tremely slow yesterday being a day appointed",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'tremnely' is replaced with 'tremely' as it seems to be a contextually appropriate correction. The word'shom' is replaced with'slow' as it seems to be a contextually appropriate correction. The word 'besterday' is replaced with 'yesterday"
+        }
+    },
+    {
+        "file_name": "302-25.png",
+        "ground_truth_label": "and the borders of carolina i am confident",
+        "OCR": {
+            "predicted_label": "oand the borders of caroliina iam confident",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "and the borders of Carolina I am confident",
+            "cer": 4.76,
+            "confidence": 90,
+            "justification": "The word 'oand' is replaced with 'and' as it seems to be a contextually appropriate correction. The word 'iam' is replaced with 'I am' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "302-23.png",
+        "ground_truth_label": "any other than paper money and you appro",
+        "OCR": {
+            "predicted_label": "any other than paper money and you appuc",
+            "cer": 12.5,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "any other than paper money and you approve",
+            "cer": 5.0,
+            "confidence": 90,
+            "justification": "The word 'appuc' is replaced with 'approve' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "302-24.png",
+        "ground_truth_label": "ved of it i would send to pennsylvania",
+        "OCR": {
+            "predicted_label": "oed of it iwould send to remmsglsoania",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "would send to Pennsylvania",
+            "cer": 34.21,
+            "confidence": 90,
+            "justification": "The word 'oed' is replaced with 'would' as it seems to be a contextually appropriate correction. The word 'iwould' is replaced with 'i' as it seems to be a mistake in the original text. The word '"
+        }
+    },
+    {
+        "file_name": "302-22.png",
+        "ground_truth_label": "ten officers with twenty men only if i had",
+        "OCR": {
+            "predicted_label": "ten ofiaers with centy men anly if had",
+            "cer": 44.44,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "ten officers with twenty men only if I had",
+            "cer": 2.38,
+            "confidence": 90,
+            "justification": "The word 'ofiaers' is replaced with 'officers' as it seems to be a contextually appropriate correction. The word 'anly' is replaced with 'only' and the word 'if' is replaced with 'I"
+        }
+    },
+    {
+        "file_name": "302-26.png",
+        "ground_truth_label": "men might be had there your honor",
+        "OCR": {
+            "predicted_label": "men might be had there your honor",
+            "cer": 0.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "men might be had there your honor",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word'might' is replaced with'may' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "302-30.png",
+        "ground_truth_label": "than what will serve for twelve hundred men",
+        "OCR": {
+            "predicted_label": "than what wil seove for ttrelre hundred meny",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "than what will serve for twelve hundred men",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'ttrelre' is replaced with 'twelve' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "302-29.png",
+        "ground_truth_label": "know whether you would have more laid in",
+        "OCR": {
+            "predicted_label": "hnors whether you sould hanve more baitin",
+            "cer": 62.5,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "know whether you would have more laid in",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'hnors' is replaced with 'know' as it seems to be a contextually appropriate correction. The word 'hanve' is replaced with 'would have' as it seems to be a contextually appropriate correction. The word 'baitin' is replaced"
+        }
+    },
+    {
+        "file_name": "302-35.png",
+        "ground_truth_label": "that my constant attendance there can not",
+        "OCR": {
+            "predicted_label": "that my aonstant attend ane there can nt",
+            "cer": 57.14,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "that my constant attendance there cannot",
+            "cer": 2.44,
+            "confidence": 90,
+            "justification": "The word 'aonstant' is replaced with 'constant' as it seems to be a contextually appropriate correction. The word 'there' is replaced with 'there cannot' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "302-28.png",
+        "ground_truth_label": "ons about the provisions i should be glad to",
+        "OCR": {
+            "predicted_label": "ons alout the broisiony i should be glad to",
+            "cer": 22.22,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "ons about the provisions i should be glad to",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'alout' is replaced with 'about' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "302-33.png",
+        "ground_truth_label": "any great danger can be apprehended at",
+        "OCR": {
+            "predicted_label": "any gueat danger can be apprchended at",
+            "cer": 28.57,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "any great danger can be apprehended at",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'gueat' is replaced with 'great' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "302-34.png",
+        "ground_truth_label": "fort cumberland this winter i am sensible",
+        "OCR": {
+            "predicted_label": "iorit cumberland this dintery i am semsilly",
+            "cer": 42.86,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "Fort Cumberland this winter I am sensible",
+            "cer": 7.32,
+            "confidence": 90,
+            "justification": "The word 'iorit' is replaced with 'Fort' as it seems to be a contextually appropriate correction. The word 'cumberland' is replaced with 'this' as it seems to be a contextually appropriate correction. The word 'dintery' is replaced"
+        }
+    },
+    {
+        "file_name": "302-31.png",
+        "ground_truth_label": "that i may give orders accordingly",
+        "OCR": {
+            "predicted_label": "that c may yive orders accordingly",
+            "cer": 33.33,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "that I may give orders accordingly",
+            "cer": 2.94,
+            "confidence": 90,
+            "justification": "The word 'c' is replaced with 'I' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "302-32.png",
+        "ground_truth_label": "as i can not now conceive that",
+        "OCR": {
+            "predicted_label": "e o can not non comeeive that",
+            "cer": 57.14,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "as I cannot now conceive that",
+            "cer": 6.67,
+            "confidence": 90,
+            "justification": "The word 'e' is replaced with 'I' as it seems to be a contextually appropriate correction. The word 'o' is replaced with 'now' as it seems to"
+        }
+    },
+    {
+        "file_name": "303-08.png",
+        "ground_truth_label": "of it hoping that it will correspond with your own opinion",
+        "OCR": {
+            "predicted_label": "of it coping that it will commepond with your oumn pinions",
+            "cer": 36.36,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "of it hoping that it will correspond with your own opinion",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'coping' is replaced with 'hoping' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "303-10.png",
+        "ground_truth_label": "ston the fort  major was appointed adjutant to our",
+        "OCR": {
+            "predicted_label": "ton the fort tapo wos appointed dppuitant to our",
+            "cer": 44.44,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "stone the fort major was appointed adjutant to our",
+            "cer": 2.04,
+            "confidence": 90,
+            "justification": "The word 'ton' is replaced with'stone' as it seems to be a contextually appropriate correction. The word 'wos' is replaced with 'was' as it seems to be a contextually appropriate correction. The word 'dppuitant' is replaced with 'adjutant'"
+        }
+    },
+    {
+        "file_name": "303-04.png",
+        "ground_truth_label": "be so serviceable as riding from place making the",
+        "OCR": {
+            "predicted_label": "be so servicealle as iding fom plaee mahing he",
+            "cer": 66.67,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "be so serviceable as riding from place making the",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'iding' is replaced with 'riding' as it seems to be a contextually appropriate correction. The word'mahing' is replaced with'making' as it seems to be a contextually appropriate correction. The word 'the' is added after'making' as it"
+        }
+    },
+    {
+        "file_name": "303-05.png",
+        "ground_truth_label": "proper dispositions and seeing that all our neces",
+        "OCR": {
+            "predicted_label": "proper iipoitions and seeeng that all our neay",
+            "cer": 37.5,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "proper dispositions and seeing that all our necessaries",
+            "cer": 12.24,
+            "confidence": 90,
+            "justification": "The word 'iipoitions' is replaced with 'dispositions' as it seems to be a contextually appropriate correction. The word'seeeng' is replaced with'seeing' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "303-07.png",
+        "ground_truth_label": "fore think it advisable to inform your honour",
+        "OCR": {
+            "predicted_label": "bore thinhe i adis alle to inbom your honour",
+            "cer": 75.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "forethink it advisable to inform your honour",
+            "cer": 2.22,
+            "confidence": 90,
+            "justification": "The words 'bore thinhe i adis' are replaced with 'forethink' and 'alle to inbom' is replaced with 'to inform' as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "303-06.png",
+        "ground_truth_label": "saries are forwarded up with dispatch i there",
+        "OCR": {
+            "predicted_label": "taries are forvarded nup with dispatch ihere",
+            "cer": 62.5,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "stores are forwarded up with dispatch there",
+            "cer": 11.11,
+            "confidence": 90,
+            "justification": "The words 'taries' and 'nup' are replaced with'stores' and 'up' as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "303-09.png",
+        "ground_truth_label": "i forgot to mention when i was down that mr living",
+        "OCR": {
+            "predicted_label": "ifogt to mentin when i aas domn that m ging",
+            "cer": 63.64,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "I forgot to mention when I was down that Mr. Living",
+            "cer": 10.0,
+            "confidence": 90,
+            "justification": "The word 'ifogt' is replaced with 'I forgot' as it seems to be a contextually appropriate correction. The word 'to' is removed as it seems to be a mistake in the original text. The word'mentin'"
+        }
+    },
+    {
+        "file_name": "303-02.png",
+        "ground_truth_label": "letters orders and instructions december 1755",
+        "OCR": {
+            "predicted_label": "leters orders and instructions deember 1755",
+            "cer": 33.33,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "letters, orders, and instructions, December 1755",
+            "cer": 8.89,
+            "confidence": 99,
+            "justification": "The word 'leters' is replaced with 'letters' as it seems to be a contextually appropriate correction. The addition of commas and capitalization of 'Orders' and 'Instructions' improves the sentence structure and readability."
+        }
+    },
+    {
+        "file_name": "303-12.png",
+        "ground_truth_label": "in a military way had qualified better for the office",
+        "OCR": {
+            "predicted_label": "in a military way had gurlihad beter for the offe",
+            "cer": 30.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "in a military way had qualified better for the office",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'gurlihad' is replaced with 'qualified' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "303-18.png",
+        "ground_truth_label": "to the light horse will expect to have theirs augmen",
+        "OCR": {
+            "predicted_label": "to the fight hooe will capet to have this argouen",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "to the light horse will expect to have their augment",
+            "cer": 3.85,
+            "confidence": 90,
+            "justification": "The word 'hooe' is replaced with 'light' as it seems to be a contextually appropriate correction. The word 'will' is replaced with 'expect' as it seems to be a contextually appropriate correction. The word 'have' is replaced with 'augment' as it seems to be a context"
+        }
+    },
+    {
+        "file_name": "303-16.png",
+        "ground_truth_label": "would fix it so is captain stewarts if captain stew",
+        "OCR": {
+            "predicted_label": "asonld five it sois captain eumts if caplain shen",
+            "cer": 70.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "would fix it so is captain stewarts if captain stew",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The words 'asonld five it sois captain eumts if caplain shen' are replaced with 'would fix it so is captain stewarts if captain stew' as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "303-11.png",
+        "ground_truth_label": "regiment  i knew of none else whose long servitude",
+        "OCR": {
+            "predicted_label": "regimment ihner of none elsre whose bony semitaee",
+            "cer": 66.67,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "regiment, I knew of none else whose long servitude",
+            "cer": 4.08,
+            "confidence": 90,
+            "justification": "The word 'i' is replaced with 'I' and the word 'none elsre' is replaced with 'none else' as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "303-15.png",
+        "ground_truth_label": "seems yet doubtful i should be glad if your honour",
+        "OCR": {
+            "predicted_label": "seeons yut coullfrly i shoull be pfad if your orour",
+            "cer": 60.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "seems yet doubtful I should be glad if your honour",
+            "cer": 2.0,
+            "confidence": 90,
+            "justification": "The words 'yut coullfrly' are replaced with 'yet doubtful' and 'i shoull be pfad' is replaced with 'I should be glad' as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "303-17.png",
+        "ground_truth_label": "arts is encreased i suppose all the officers belonging",
+        "OCR": {
+            "predicted_label": "arts is enereased i suppose allf the ofcers helongiang",
+            "cer": 44.44,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "arts is encreased i suppose all the officers belonging",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'enereased' is replaced with 'encreased' as it seems to be a contextually appropriate correction. The word 'allf' is replaced with 'all the' as it seems to be a contextually appropriate correction. The word 'helongiang' is replaced with 'belonging' as it seems to be a context"
+        }
+    },
+    {
+        "file_name": "303-14.png",
+        "ground_truth_label": "captain mercers pay as aid de camp",
+        "OCR": {
+            "predicted_label": "captain ereeis pay as aid te canp",
+            "cer": 42.86,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "captain mercers pay as aid de camp",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'ereeis' is replaced with'mercers' as it seems to be a contextually appropriate correction. The addition of 'as' after 'pay' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "303-13.png",
+        "ground_truth_label": "he was appointed the 17th of september",
+        "OCR": {
+            "predicted_label": "he was appainted the t fleptember",
+            "cer": 57.14,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "he was appointed the 17th of September",
+            "cer": 2.63,
+            "confidence": 90,
+            "justification": "The word 'appainted' is replaced with 'appointed' as it seems to be a contextually appropriate correction. The addition of 'the 17th of September' improves the sentence structure"
+        }
+    },
+    {
+        "file_name": "303-21.png",
+        "ground_truth_label": "rokee indians this winter i told him where to ap",
+        "OCR": {
+            "predicted_label": "sohe indiang this otinter itoll him where to opr",
+            "cer": 60.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "Sohe Indians this winter I told him where to go",
+            "cer": 14.58,
+            "confidence": 90,
+            "justification": "The word'sohe' is replaced with 'Sohe' as it seems to be a contextually appropriate correction. The word 'indiang' is replaced with 'Indians' as it seems to be a contextually appropriate correction. The word 'otinter' is replaced with 'winter'"
+        }
+    },
+    {
+        "file_name": "303-20.png",
+        "ground_truth_label": "covered an inclination to go to the creek and che",
+        "OCR": {
+            "predicted_label": "covered an inclinationr to gu to the bsruch ant bhe",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "covered an inclination to go to the creek and bush",
+            "cer": 8.16,
+            "confidence": 90,
+            "justification": "The words 'an inclinationr to gu to the bsruch ant bhe' are replaced with 'covered an inclination to go to the creek and bush' as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "303-22.png",
+        "ground_truth_label": "ply if he had any such thoughts i believe on",
+        "OCR": {
+            "predicted_label": "pfy if he had any uch thoughts rbelieve on",
+            "cer": 40.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "ply if he had any such thoughts i believe on",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'pfy' is replaced with 'ply' as it seems to be a contextually appropriate correction. The word 'uch' is replaced with'such' and the word 'rbelieve' is replaced with 'i believe' as they seem"
+        }
+    },
+    {
+        "file_name": "303-19.png",
+        "ground_truth_label": "ted also colonel stephens in a late letter dis",
+        "OCR": {
+            "predicted_label": "ted alsc colonel fepheny in a bate llter dis",
+            "cer": 44.44,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "ted also Colonel Stephen in a late letter dis",
+            "cer": 6.52,
+            "confidence": 90,
+            "justification": "The word 'alsc' is replaced with 'also' as it seems to be a contextually appropriate correction. The word 'colonel' is replaced with 'Colonel' as it seems to be a contextually appropriate correction. The word 'bate'"
+        }
+    },
+    {
+        "file_name": "303-24.png",
+        "ground_truth_label": "the spring if your honor think proper to or",
+        "OCR": {
+            "predicted_label": "the fpingy if your bonor thinbs proper to orc",
+            "cer": 44.44,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "the spring if your honor thinks proper to order",
+            "cer": 9.3,
+            "confidence": 90,
+            "justification": "The word 'fpingy' is replaced with'spring' as it seems to be a contextually appropriate correction. The word 'your' is replaced with 'your honor' and 'thinbs' is replaced with 'thinks' as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "303-23.png",
+        "ground_truth_label": "so useful a business he might be spared until",
+        "OCR": {
+            "predicted_label": "so wusoful o businefs he might be spareduntil",
+            "cer": 55.56,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "so useful a business he might be spared until",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'wusoful' is replaced with 'useful' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "303-26.png",
+        "ground_truth_label": "ters and against harbouring them to be published",
+        "OCR": {
+            "predicted_label": "ters and againt harbouing them to be pullshed",
+            "cer": 37.5,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "ters and against harbouring them to be published",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'against' is replaced with 'against' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "303-25.png",
+        "ground_truth_label": "der the act of assembly for apprehending deser",
+        "OCR": {
+            "predicted_label": "der the het of efenlly for aprchending erun",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "the act of assembly for apprehending deserters",
+            "cer": 17.39,
+            "confidence": 90,
+            "justification": "The word 'der' is replaced with 'the' as it seems to be a contextually appropriate correction. The word 'the' is added after 'act' and 'deser' is replaced with 'deserters' as they seem to"
+        }
+    },
+    {
+        "file_name": "303-28.png",
+        "ground_truth_label": "people were made acquainted with the law it would",
+        "OCR": {
+            "predicted_label": "people vere made apuainld with the bers itod",
+            "cer": 55.56,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "people were made acquainted with the law it would",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'were' is replaced with 'were' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "303-29.png",
+        "ground_truth_label": "have a very good effect the commonalty in gene",
+        "OCR": {
+            "predicted_label": "have a nery god fet the commonely inr gen",
+            "cer": 66.67,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "have a very good effect on the commonalty in general",
+            "cer": 13.04,
+            "confidence": 90,
+            "justification": "The word 'have' is replaced with 'have a very good effect' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "303-27.png",
+        "ground_truth_label": "every sunday in each parish church until the",
+        "OCR": {
+            "predicted_label": "ooy iunday in each parith bharch wull the",
+            "cer": 62.5,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "every Sunday in each parish church until the",
+            "cer": 2.27,
+            "confidence": 90,
+            "justification": "The word 'ooy' is replaced with 'every' and 'iunday' is replaced with 'Sunday' as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "303-31.png",
+        "ground_truth_label": "of them are acquainted that such a law exists and",
+        "OCR": {
+            "predicted_label": "of then ar aeguantes hat such aharsais and",
+            "cer": 70.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "of them are acquainted that such a law exists and",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The words 'then ar aeguantes' are replaced with 'of them are' and 'hat such aharsais' is replaced with 'that such a law' as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "303-32.png",
+        "ground_truth_label": "there is no other certain way of bringing it to their",
+        "OCR": {
+            "predicted_label": "there is io ther cartain aay f bringngt tothe",
+            "cer": 81.82,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "there is no other certain way of bringing it to their",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The words 'io ther cartain' are replaced with 'no other certain' as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "303-34.png",
+        "ground_truth_label": "that did once belong to our companies deserted",
+        "OCR": {
+            "predicted_label": "that dis one belony to or companie dernats",
+            "cer": 75.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "that did once belong to our companies deserted",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'dis' is replaced with 'did' as it seems to be a contextually appropriate correction. The word 'one' is replaced with 'our' as it seems to be a contextually appropriate correction. The word 'belony' is replaced with 'belong'"
+        }
+    },
+    {
+        "file_name": "303-33.png",
+        "ground_truth_label": "knowledge there are a great many of the men",
+        "OCR": {
+            "predicted_label": "cronlelye there are a guat mangfthe nen",
+            "cer": 66.67,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "knowledge there are a great many of the men",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'cronlelye' is replaced with 'knowledge' as it seems to be a contextually appropriate correction. The word 'there' is replaced with 'are' and the word 'a guat' is"
+        }
+    },
+    {
+        "file_name": "303-30.png",
+        "ground_truth_label": "ral or more through ignorance than design few",
+        "OCR": {
+            "predicted_label": "asl s moe heough iuoane than dsign for",
+            "cer": 87.5,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "asl s moe heough iuoane than dsign for",
+            "cer": 31.11,
+            "confidence": 90,
+            "justification": "The word 'asl' is replaced with 'as' as it seems to be a contextually appropriate correction. The word'moe' is replaced with'more' as it seems to be a context"
+        }
+    },
+    {
+        "file_name": "304-01.png",
+        "ground_truth_label": "304 letters orders and instructions december 1755",
+        "OCR": {
+            "predicted_label": "g leters oeders and instruructionns dercember 175",
+            "cer": 85.71,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "g leters oeders and instruructionns dercember 175",
+            "cer": 20.41,
+            "confidence": 0,
+            "justification": "No justification provided, sentence is returned uncorrected."
+        }
+    },
+    {
+        "file_name": "304-03.png",
+        "ground_truth_label": "be sure of idemnity if your honor would",
+        "OCR": {
+            "predicted_label": "be sure of indemnity if you ionor wouild",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "be sure of indemnity if you honor would",
+            "cer": 5.13,
+            "confidence": 90,
+            "justification": "The word 'ionor' is replaced with 'honor' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "304-05.png",
+        "ground_truth_label": "shirley or the colonels of those regiments  it",
+        "OCR": {
+            "predicted_label": "thirley or the colonely of thase regiments it",
+            "cer": 37.5,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "Shirley or the colonels of those regiments it",
+            "cer": 2.22,
+            "confidence": 90,
+            "justification": "The word 'thirley' is replaced with 'Shirley' as it seems to be a contextually appropriate correction. The word 'the' is added after 'colonels' and the word 'it' is added at the end as they seem to be contextually"
+        }
+    },
+    {
+        "file_name": "304-04.png",
+        "ground_truth_label": "be kind enough to intimate this to general",
+        "OCR": {
+            "predicted_label": "bhe hind enough to intimate this to coemeral",
+            "cer": 37.5,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "be kind enough to intimate this to general",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'bhe' is replaced with 'be' as it seems to be a contextually appropriate correction. The word 'hind' is replaced with 'kind' as it seems to be a contextually appropriate correction. The word 'coemeral' is replaced with 'general' as it seems to be a"
+        }
+    },
+    {
+        "file_name": "304-06.png",
+        "ground_truth_label": "would be of service to us without leave we",
+        "OCR": {
+            "predicted_label": "woll be of sviee to us withot lae as",
+            "cer": 55.56,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "would be of service to us without leave as",
+            "cer": 4.76,
+            "confidence": 90,
+            "justification": "The word 'woll' is replaced with 'would' as it seems to be a contextually appropriate correction. The word 'we' is added after 'leave' as it seems to be a contextually"
+        }
+    },
+    {
+        "file_name": "303-35.png",
+        "ground_truth_label": "from the regiments into which they were draugh",
+        "OCR": {
+            "predicted_label": "foum the regiments into whih they aer dugt",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "from the regiments into which they were draught",
+            "cer": 2.17,
+            "confidence": 90,
+            "justification": "The word 'foum' is replaced with 'from' as it seems to be a contextually appropriate correction. The word 'whih' is replaced with 'which' and the word 'are' is replaced with 'were' as they seem"
+        }
+    },
+    {
+        "file_name": "303-36.png",
+        "ground_truth_label": "ted that would now gladly return if they could",
+        "OCR": {
+            "predicted_label": "tel hat would noo pfatsbretin if they enlt",
+            "cer": 66.67,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "ted that would now gladly return if they could",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'noo' is replaced with 'now' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "304-07.png",
+        "ground_truth_label": "dare not receive them vc",
+        "OCR": {
+            "predicted_label": "hare not reeeive them ve",
+            "cer": 60.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "dare not receive them vc",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'hare' is replaced with 'dare' as it seems to be a contextually appropriate correction. The word'receeive"
+        }
+    },
+    {
+        "file_name": "304-13.png",
+        "ground_truth_label": "having leave to go down and settle his ac",
+        "OCR": {
+            "predicted_label": "coanving leave to go dovon and settle his tc",
+            "cer": 33.33,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "having leave to go down and settle his account",
+            "cer": 12.2,
+            "confidence": 90,
+            "justification": "The word 'coanving' is replaced with 'having' as it seems to be a contextually appropriate correction. The word 'dovon' is replaced with 'down' and 'tc' is replaced with 'account' as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "304-11.png",
+        "ground_truth_label": "5th to john robinson esquire speaker",
+        "OCR": {
+            "predicted_label": "28tto fohn fohinson ceogire gecber",
+            "cer": 100.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "28th to John Robinson, Esquire, Speaker and",
+            "cer": 33.33,
+            "confidence": 90,
+            "justification": "The word 'ohn' is replaced with 'John' as it seems to be a contextually appropriate correction. The addition of 'Esquire, Speaker'"
+        }
+    },
+    {
+        "file_name": "304-15.png",
+        "ground_truth_label": "call upon you for the balance of the ten",
+        "OCR": {
+            "predicted_label": "call upon you for the calane of the ten",
+            "cer": 11.11,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "call upon you for the balance of the ten",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'calane' is replaced with 'balance' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "304-14.png",
+        "ground_truth_label": "compts with the committee is ordered to",
+        "OCR": {
+            "predicted_label": "compts with the commite is ordered to",
+            "cer": 14.29,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "complies with the committee is ordered to",
+            "cer": 7.69,
+            "confidence": 90,
+            "justification": "The word 'compts' is replaced with 'complies' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "304-12.png",
+        "ground_truth_label": "the bearer captain john mercer",
+        "OCR": {
+            "predicted_label": "the bearer caplain fohn e therer",
+            "cer": 80.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "the bearer captain john mercer",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'caplain' is replaced with 'captain' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "304-09.png",
+        "ground_truth_label": "alexandria december",
+        "OCR": {
+            "predicted_label": "ellecauntrier derember",
+            "cer": 100.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "Alexandria, December",
+            "cer": 15.79,
+            "confidence": 90,
+            "justification": "The word 'ellecauntrier' is replaced with 'Alexandria' as it seems to be a contextually appropriate correction. The addition of 'De"
+        }
+    },
+    {
+        "file_name": "304-10.png",
+        "ground_truth_label": "5th 1755",
+        "OCR": {
+            "predicted_label": "27 1755",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "27 1755",
+            "cer": 37.5,
+            "confidence": 0,
+            "justification": "No justification provided, sentence is returned uncorrected."
+        }
+    },
+    {
+        "file_name": "304-08.png",
+        "ground_truth_label": "gw",
+        "OCR": {
+            "predicted_label": "gt",
+            "cer": 100.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "gw",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word"
+        }
+    },
+    {
+        "file_name": "304-17.png",
+        "ground_truth_label": "want before another opportunity may offer",
+        "OCR": {
+            "predicted_label": "want before another opporttunity mmay ofery",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "want before another opportunity may offer",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word'mmay' is replaced with'may' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "304-21.png",
+        "ground_truth_label": "ter but meeting with letters at fredericks",
+        "OCR": {
+            "predicted_label": "ter hit meeting with setters at fredericbs",
+            "cer": 42.86,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "ter but meeting with letters at fredericks",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'hit' is replaced with 'but' as it seems to be a contextually appropriate correction. The word'setters' is replaced with 'letters' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "304-23.png",
+        "ground_truth_label": "above and that nothing was immediate",
+        "OCR": {
+            "predicted_label": "above and that nothing uas immediale",
+            "cer": 33.33,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "above and that nothing was immediate",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'uas' is replaced with 'was' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "304-22.png",
+        "ground_truth_label": "burgh informing me that peace prevailed",
+        "OCR": {
+            "predicted_label": "bugh infomminyg me that peace prurailed",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "burgh informing me that peace prevailed",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'bugh' is replaced with 'burgh' as it seems to be a contextually appropriate correction. The word 'infomminyg' is replaced with 'informing' and the word 'prurailed' is replaced with 'prev"
+        }
+    },
+    {
+        "file_name": "304-20.png",
+        "ground_truth_label": "amsburgh i intended to proceed to winches",
+        "OCR": {
+            "predicted_label": "amsbreggh i intended to proared to wtinches",
+            "cer": 42.86,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "amsburgh i intended to proceed to winches",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'amsbreggh' is replaced with 'amburg' as it seems to be a contextually appropriate correction. The addition of 'to' after 'proceed' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "304-18.png",
+        "ground_truth_label": "this being the time when our demands for",
+        "OCR": {
+            "predicted_label": "this heing the time wohen our icmandy for",
+            "cer": 37.5,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "this being the time when our demands for",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'heing' is replaced with 'being' as it seems to be a contextually appropriate correction. The word 'wohen' is replaced with 'when' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "304-16.png",
+        "ground_truth_label": "thousand pounds which i believe we shall",
+        "OCR": {
+            "predicted_label": "thousand pounds which dlelieve are thall",
+            "cer": 57.14,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "thousand pounds which I believe we shall",
+            "cer": 2.5,
+            "confidence": 90,
+            "justification": "The word 'dlelieve' is replaced with 'I believe' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "304-19.png",
+        "ground_truth_label": "money are greatest when i left willi",
+        "OCR": {
+            "predicted_label": "money are yuoalet wnalft will",
+            "cer": 71.43,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "money are greatest when I left will",
+            "cer": 5.56,
+            "confidence": 90,
+            "justification": "The word 'yuoalet' is replaced with 'greatest' as it seems to be a contextually appropriate correction. The word 'wnalft' is"
+        }
+    },
+    {
+        "file_name": "304-24.png",
+        "ground_truth_label": "ly wanted but salt i came up here to en",
+        "OCR": {
+            "predicted_label": "by wanted brt falty i came up here to en",
+            "cer": 30.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "by want, but salt, I came up here to en",
+            "cer": 12.82,
+            "confidence": 90,
+            "justification": "The word 'brt' is replaced with 'want' as it seems to be a contextually appropriate correction. The word 'falty' is replaced with 'but' as it seems to be a contextually appropriate correction. The word"
+        }
+    },
+    {
+        "file_name": "304-26.png",
+        "ground_truth_label": "of some recruits at this place and a vessel",
+        "OCR": {
+            "predicted_label": "of ome secruuits at this plaae and a oefiel",
+            "cer": 44.44,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "of some recruits at this place and a vessel",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'ome' is replaced with'some' as it seems to be a contextually appropriate correction. The word'secruuits' is replaced with'recruits' and 'a oefiel' is replaced with 'a vessel' as they"
+        }
+    },
+    {
+        "file_name": "304-28.png",
+        "ground_truth_label": "sel left williamsburgh two days after i did",
+        "OCR": {
+            "predicted_label": "sel beft williamshurrgh tao days after idid",
+            "cer": 62.5,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "sel left Williamsburgh two days after i did",
+            "cer": 2.33,
+            "confidence": 90,
+            "justification": "The word 'beft' is replaced with 'left' as it seems to be a contextually appropriate correction. The word 'williamshurrgh' is replaced with 'Williamsburgh' as it seems to be a contextually appropriate correction. The word '"
+        }
+    },
+    {
+        "file_name": "304-25.png",
+        "ground_truth_label": "gage what i could and to wait the arrival",
+        "OCR": {
+            "predicted_label": "pige what eoull und to wait the arivl",
+            "cer": 55.56,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "gauge what I could, and to wait the arrival",
+            "cer": 7.32,
+            "confidence": 90,
+            "justification": "The word 'pige' is replaced with 'gage' as it seems to be a contextually appropriate correction. The addition of 'I' after 'what' and 'and' after 'could' improves the"
+        }
+    },
+    {
+        "file_name": "304-29.png",
+        "ground_truth_label": "and is not yet arrived neither is the ex",
+        "OCR": {
+            "predicted_label": "and is not yut arived ocither is the cec",
+            "cer": 44.44,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "and is not yet arrived, neither is the ex",
+            "cer": 2.5,
+            "confidence": 90,
+            "justification": "The word 'yut' is replaced with 'yet' as it seems to be a contextually appropriate correction. The word 'ocither' is replaced with 'neither' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "304-31.png",
+        "ground_truth_label": "general shirley for commissions for the",
+        "OCR": {
+            "predicted_label": "general fhirley for commissions for the",
+            "cer": 16.67,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "general Shirley for commissions for the",
+            "cer": 2.56,
+            "confidence": 90,
+            "justification": "The word 'fhirley' is replaced with 'Shirley' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "304-27.png",
+        "ground_truth_label": "with sundry arms vc for the troops this ves",
+        "OCR": {
+            "predicted_label": "with sundry trins ve for the fiopr this tef",
+            "cer": 44.44,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "with sundry arms vc for the troops this ves",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'trins' is replaced with 'arms' as it seems to be a contextually appropriate correction. The word've' is replaced with'ves' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "304-30.png",
+        "ground_truth_label": "press returned which the governor sent to",
+        "OCR": {
+            "predicted_label": "puefs retirned which the governor tent to",
+            "cer": 42.86,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "press returned which the governor sent to",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'puefs' is replaced with 'press' as it seems to be a contextually appropriate correction. The word 'tent' is replaced with'sent' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "304-32.png",
+        "ground_truth_label": "field officers of our regiment which gives",
+        "OCR": {
+            "predicted_label": "ihield officers of our regiment which gives",
+            "cer": 14.29,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "field officers of our regiment which gives",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'ihield' is replaced with 'field' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "305-05.png",
+        "ground_truth_label": "and directed by another who can have no",
+        "OCR": {
+            "predicted_label": "and directedl by wnothee wtho can have no",
+            "cer": 37.5,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "and directed by another who can have no",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'wnothee' is replaced with 'another' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "305-04.png",
+        "ground_truth_label": "to go to a place where i am to be commanded",
+        "OCR": {
+            "predicted_label": "to go to a place w hisre ian to he commanded",
+            "cer": 36.36,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "to go to a place where I am to be commanded",
+            "cer": 2.33,
+            "confidence": 90,
+            "justification": "The word 'w' is replaced with 'where' as it seems to be a contextually appropriate correction. The addition of 'I' after 'to' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "305-02.png",
+        "ground_truth_label": "letters orders and instructions december 1755",
+        "OCR": {
+            "predicted_label": "letss orders and instructions eumbr 175",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "letters, orders, and instructions, December 1755",
+            "cer": 8.89,
+            "confidence": 99,
+            "justification": "The word 'letss' is replaced with 'letters' as it seems to be a contextually appropriate correction. The addition of commas and capitalization of 'Orders' and 'Instructions' improves the sentence"
+        }
+    },
+    {
+        "file_name": "304-33.png",
+        "ground_truth_label": "me much concern fearing that this de",
+        "OCR": {
+            "predicted_label": "me much comcernt pearing that this de",
+            "cer": 28.57,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "me much concern fearing that this debt",
+            "cer": 5.56,
+            "confidence": 90,
+            "justification": "The word 'comcernt' is replaced with 'concern' as it seems to be a contextually appropriate correction. The word 'de' is replaced with 'debt' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "304-35.png",
+        "ground_truth_label": "know how to act  it will be useless for me",
+        "OCR": {
+            "predicted_label": "hnon hont to acet if will be useles for me",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "know how to act",
+            "cer": 63.41,
+            "confidence": 90,
+            "justification": "The word 'hnon' is replaced with 'know' and 'hont' is replaced with 'how' as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "304-34.png",
+        "ground_truth_label": "lay is ominous in that case i shall not",
+        "OCR": {
+            "predicted_label": "bay is ominous in that tease i thall not",
+            "cer": 33.33,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "lay is ominous in that case i shall not",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'bay' is replaced with 'lay' as it seems to be a contextually appropriate correction. The word 'tease' is replaced with 'case' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "305-01.png",
+        "ground_truth_label": "p305",
+        "OCR": {
+            "predicted_label": "f ao5",
+            "cer": 200.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "p305",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word"
+        }
+    },
+    {
+        "file_name": "305-11.png",
+        "ground_truth_label": "country those which carlyle and dalton con",
+        "OCR": {
+            "predicted_label": "country fhose which carlyle ant dalton com",
+            "cer": 42.86,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "country those which Carlyle and Dalton con",
+            "cer": 4.76,
+            "confidence": 90,
+            "justification": "The word 'fhose' is replaced with 'those' as it seems to be a contextually appropriate correction. The word 'ant' is replaced with 'and' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "305-09.png",
+        "ground_truth_label": "time for want of clothing for the soldiers and none",
+        "OCR": {
+            "predicted_label": "time for want of ctithing fr the solties and none",
+            "cer": 30.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "time for want of clothing for the soldiers and none",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'ctithing' is replaced with 'clothing' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "305-12.png",
+        "ground_truth_label": "tracted to furnish we are disappointed in and",
+        "OCR": {
+            "predicted_label": "turtted to frmish e are diappointed in an",
+            "cer": 62.5,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "turned to furnish we are disappointed in them",
+            "cer": 17.78,
+            "confidence": 90,
+            "justification": "The word 'turtted' is replaced with 'turned' as it seems to be a contextually appropriate correction. The word 'are' is replaced with 'we' and 'an' is replaced with 'them' as they seem"
+        }
+    },
+    {
+        "file_name": "305-10.png",
+        "ground_truth_label": "can be had here nor in short i believe in the",
+        "OCR": {
+            "predicted_label": "ean he had here ore in that ifhelive in the",
+            "cer": 54.55,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "can be had here nor in short, I believe in the",
+            "cer": 4.44,
+            "confidence": 90,
+            "justification": "The word 'ean' is replaced with 'can' as it seems to be a contextually appropriate correction. The word 'he' is replaced with 'nor' as it seems to be a contextually appropriate correction. The word 'here' is replaced with"
+        }
+    },
+    {
+        "file_name": "305-06.png",
+        "ground_truth_label": "other pretence than that of having a commis",
+        "OCR": {
+            "predicted_label": "thee pretenee than that of hareing a commif",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "the pretence than that of having a commis",
+            "cer": 4.65,
+            "confidence": 90,
+            "justification": "The word 'pretenee' is replaced with 'pretence' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "305-13.png",
+        "ground_truth_label": "they say they have searched all the stores in",
+        "OCR": {
+            "predicted_label": "they sny they huse searcched wtl the ftors in",
+            "cer": 55.56,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "they say they have searched all the stores in",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word'sny' is replaced with 'have' as it seems to be a contextually appropriate correction. The word 'they' is added before 'have' to improve the sentence structure."
+        }
+    },
+    {
+        "file_name": "305-08.png",
+        "ground_truth_label": "we shall suffer very greatly in a little",
+        "OCR": {
+            "predicted_label": "te thal sufier ney gpeathy in a litle",
+            "cer": 75.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "we shall suffer very greatly in a little",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'te' is replaced with 'we' and the word 'thal' is replaced with'shall' as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "305-07.png",
+        "ground_truth_label": "sion from the king",
+        "OCR": {
+            "predicted_label": "sion from the fing",
+            "cer": 25.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "sion from the king",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'fing' is replaced with 'king' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "305-14.png",
+        "ground_truth_label": "maryland as well as this part of virginia and",
+        "OCR": {
+            "predicted_label": "waryhand nus wcll as this part of diruginia and",
+            "cer": 44.44,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "Maryland as well as this part of Virginia and",
+            "cer": 4.44,
+            "confidence": 90,
+            "justification": "The words 'waryhand nus wcll' are replaced with 'Maryland as well as' and 'this part of diruginia' is replaced with 'this part of Virginia' as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "305-16.png",
+        "ground_truth_label": "sustained inconceivable losses by the commis",
+        "OCR": {
+            "predicted_label": "sustined inconcimalle cofses by the commis",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "sustained inconceivable losses by the commissary",
+            "cer": 9.09,
+            "confidence": 90,
+            "justification": "The word 'cofses' is replaced with 'commissary' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "305-18.png",
+        "ground_truth_label": "are dead through poverty and bad manage",
+        "OCR": {
+            "predicted_label": "are head thsough porerty and bads manage",
+            "cer": 57.14,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "are dead through poverty and bad management",
+            "cer": 10.26,
+            "confidence": 90,
+            "justification": "The word 'thsough' is replaced with 'through' as it seems to be a contextually appropriate correction. The word 'bads' is replaced with 'bad' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "305-15.png",
+        "ground_truth_label": "none are able to furnish clothes we have",
+        "OCR": {
+            "predicted_label": "one are whthe to fruwih clothes ie harve",
+            "cer": 62.5,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "none are able to furnish clothes we have",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The words 'one are whthe' are replaced with 'none are able' and 'to fruwih' is replaced with 'to furnish' as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "305-17.png",
+        "ground_truth_label": "saries delays many of the carolina beeves",
+        "OCR": {
+            "predicted_label": "saies tilays many of the carohina beeres",
+            "cer": 57.14,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "saries delays many of the carolina beeves",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word'saies' is replaced with'saries' as it seems to be a contextually appropriate correction. The word 'tilays' is replaced with 'delays' as it seems to be a contextually appropriate correction"
+        }
+    },
+    {
+        "file_name": "305-20.png",
+        "ground_truth_label": "slaughter pray make my compliments",
+        "OCR": {
+            "predicted_label": "shareg httr iiry mahe my complintnts",
+            "cer": 100.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "slaughter pray make my compliments",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word'shareg' is replaced with'slaughter' as it seems to be a contextually appropriate correction. The word 'httr' is replaced with 'pray' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "305-21.png",
+        "ground_truth_label": "to my friends below and believe me vc",
+        "OCR": {
+            "predicted_label": "to myf friends crlon and selieve me ve",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "to my friends below and believe me vc",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word'myf' is replaced with'my' as it seems to be a contextually appropriate correction. The word 'crlon' is replaced with 'below' as it seems to be a contextually appropriate correction. The word '"
+        }
+    },
+    {
+        "file_name": "305-19.png",
+        "ground_truth_label": "ment and the chief of them are too poor to",
+        "OCR": {
+            "predicted_label": "ment wnd the whit of thim are to por t",
+            "cer": 60.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "ment and the chief of them are too poor to",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'wnd' is replaced with 'and' as it seems to be a contextually appropriate correction. The word 'them' is replaced with 'the chief' as it seems to be a contextually appropriate correction"
+        }
+    },
+    {
+        "file_name": "305-30.png",
+        "ground_truth_label": "5th to lieutenant george frazier",
+        "OCR": {
+            "predicted_label": "2th to lieuttnant george frcegier",
+            "cer": 60.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "5th to Lieutenant George Frazier",
+            "cer": 9.38,
+            "confidence": 90,
+            "justification": "The word '2th' is replaced with '5th' as it seems to be a mistake in the original text. The word 'lieuttnant' is replaced with '"
+        }
+    },
+    {
+        "file_name": "305-26.png",
+        "ground_truth_label": "pray propose it and let me know",
+        "OCR": {
+            "predicted_label": "bray propore it and tet me hnens",
+            "cer": 57.14,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "pray propose it and let me know",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'bray' is replaced with 'pray' as it seems to be a contextually appropriate correction. The word 'propore' is replaced with 'propose' and 'tet"
+        }
+    },
+    {
+        "file_name": "305-25.png",
+        "ground_truth_label": "the lieutenant colonel and major",
+        "OCR": {
+            "predicted_label": "thei lieutenant ceolonel and tha pr",
+            "cer": 80.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "the Lieutenant Colonel and Major",
+            "cer": 9.38,
+            "confidence": 90,
+            "justification": "The word 'thei' is replaced with 'the' as it seems to be a contextually appropriate correction. The word 'ceolonel' is replaced with 'Colonel' and 'tha' is replaced with 'and' as they seem to be"
+        }
+    },
+    {
+        "file_name": "305-28.png",
+        "ground_truth_label": "alexandria december 5th 1755",
+        "OCR": {
+            "predicted_label": "aeoeitiia drcember 1t 1755",
+            "cer": 75.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "alexandria december 5th 1755",
+            "cer": 0.0,
+            "confidence": 99,
+            "justification": "The OCR error 'aeoeitiia' is corrected to 'al"
+        }
+    },
+    {
+        "file_name": "305-23.png",
+        "ground_truth_label": "ps the committee i believe",
+        "OCR": {
+            "predicted_label": "2h the commite felive",
+            "cer": 80.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "ps the committee i believe",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word '2h' is replaced with 'ps' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "305-24.png",
+        "ground_truth_label": "have not yet fixed the pay of",
+        "OCR": {
+            "predicted_label": "have not yut fived the pary of",
+            "cer": 42.86,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "have not yet fixed the pay of",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'yut' is replaced with 'yet' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "305-27.png",
+        "ground_truth_label": "their resolves",
+        "OCR": {
+            "predicted_label": "their renlises",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "their resolves",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word'renlises' is replaced with'resolves' as it seems to be a"
+        }
+    },
+    {
+        "file_name": "305-22.png",
+        "ground_truth_label": "gw",
+        "OCR": {
+            "predicted_label": "g",
+            "cer": 100.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "gw and the corrected sentence",
+            "cer": 1350.0,
+            "confidence": 0,
+            "justification": "No justification provided, sentence is returned uncorrected."
+        }
+    },
+    {
+        "file_name": "305-33.png",
+        "ground_truth_label": "fort cumberland for curing the provisions you",
+        "OCR": {
+            "predicted_label": "tont cumberland for curing the prorisiony you",
+            "cer": 28.57,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "Fort Cumberland for curing the provisions you",
+            "cer": 4.44,
+            "confidence": 90,
+            "justification": "The word 'tont' is replaced with 'Fort' as it seems to be a contextually appropriate correction. The word 'cumberland' is replaced with 'Cumberland' as it seems to be a contextually appropriate correction. The word 'prorisiony' is"
+        }
+    },
+    {
+        "file_name": "305-34.png",
+        "ground_truth_label": "must endeavour to purchase it upon the best",
+        "OCR": {
+            "predicted_label": "must ende asmur to purchase it wupon the best",
+            "cer": 37.5,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "must endeavour to purchase it upon the best",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'as' is replaced with 'endeavour' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "305-32.png",
+        "ground_truth_label": "as a quantity of salt is wanted at",
+        "OCR": {
+            "predicted_label": "ats ar puantity of balt is wantedadt",
+            "cer": 75.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "as a quantity of salt is wanted at",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'ats' is replaced with 'as' and 'puantity' is replaced with 'quantity' as they seem to be contextually appropriate corrections."
+        }
+    },
+    {
+        "file_name": "305-31.png",
+        "ground_truth_label": "at fredericksburgh",
+        "OCR": {
+            "predicted_label": "at rederuchshurrghi",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "at Fredericksburg",
+            "cer": 11.11,
+            "confidence": 90,
+            "justification": "The word 'at rederuchshurrghi' is replaced with 'at Fredericksburg' as it seems"
+        }
+    }
+]

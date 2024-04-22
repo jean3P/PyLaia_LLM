@@ -1,0 +1,24 @@
+common:
+  experiment_dirname: /home/pool/pylaia_test/PyLaia_LLM/models/experiments_100
+  monitor: va_cer
+data:
+  batch_size: 7
+  color_mode: L
+img_dirs:
+- resources/datasets/washington
+optimizer:
+  learning_rate: 0.0001
+  name: RMSProp
+scheduler:
+  active: true
+  monitor: va_loss
+syms: resources/datasets/washington/syms.txt
+tr_txt_table: /home/pool/pylaia_test/PyLaia_LLM/resources/datasets/washington/training_subset_100.txt
+train:
+  augment_training: true
+  early_stopping_patience: 110
+trainer:
+  auto_select_gpus: true
+  gpus: 1
+  max_epochs: 1000
+va_txt_table: resources/datasets/washington/valid.txt
