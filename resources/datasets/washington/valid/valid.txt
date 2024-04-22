@@ -1,0 +1,66 @@
+valid/305-35.png t e r m s <space> y o u <space> c a n ; <space> a n d <space> I <space> s h a l l <space> f u l f i l <space> a n y <space> c o n t r a c t
+valid/305-36.png y o u <space> m a y <space> e n t e r <space> i n t o . <space> W h a t <space> I <space> h a v e <space> e n g a g e d <space> h e r e
+valid/306-01.png 3 0 6 . <space> L e t t e r s <space> O r d e r s <space> a n d <space> I n s t r u c t i o n s . <space> D e c e m . <space> 1 7 5 5
+valid/306-03.png h a s <space> b e e n <space> a t <space> 2 s / . <space> p e r <space> b u s h e l . <space> Y o u <space> m a y <space> p r o c u r e
+valid/306-04.png s i x <space> o r <space> e i g h t <space> h u n d r e d <space> b u s h e l <space> a t <space> t h a t <space> r a t e ,
+valid/306-05.png a n d <space> s e e <space> t h a t <space> t h e y <space> a r e <space> f o r w a r d e d <space> t o <space> W i n c h e s -
+valid/306-06.png t e r <space> a s <space> e x p e d i t i o u s l y <space> a s <space> p o s s i b l e : <space> i n <space> o r d e r <space> t o <space> d o
+valid/306-07.png t h i s , <space> y o u <space> m u s t <space> h i r e <space> a n d <space> i m p r e s s <space> w a g g o n s :
+valid/306-08.png t h o s e <space> H o r s e s <space> w h i c h <space> w e r e <space> s e n t <space> r o u n d <space> f r o m
+valid/306-09.png W i l l i a m s b u r g h , <space> a r e <space> a l s o <space> t o <space> g o <space> u p ; <space> a n d <space> a <space> m i l i -
+valid/306-10.png t a r y <space> C h e s t <space> w h i c h <space> M r . <space> A l l e n <space> m a d e <space> f o r <space> m e , <space> i s
+valid/306-11.png t o <space> r e c e i v e <space> t h e <space> f i r s t <space> c o n v e y a n c e <space> Y o u <space> a r e <space> t o
+valid/306-12.png r e m a i n <space> i n <space> F r e d e r i c k s b u r g h <space> a n d <space> F a l m o u t h ,
+valid/306-13.png s e e i n g <space> t h e s e <space> t h i n g s <space> d o n e , <space> u n t i l <space> f u r t h e r <space> O r d e r s .
+valid/306-14.png A l l <space> t h e <space> R e c r u i t s <space> w h i c h <space> n o w <space> a r e , <space> a n d <space> s h a l l
+valid/306-15.png a r r i v e <space> a t <space> F r e d e r i c k s b u r g h , <space> b e t w e e n <space> t h i s <space> a n d
+valid/306-16.png t h e <space> 2 5 t h . <space> I n s t a n t , <space> m u s t <space> i m m e d i a t e l y <space> p r o c e e d
+valid/306-17.png t o <space> t h e <space> R e n d e z v o u s <space> a t <space> W i n c h e s t e r .
+valid/306-18.png N : B . <space> E n q u i r e <space> o f <space> M r . <space> D i c k <space> a n d <space> o t h e r <space> M e r -
+valid/306-19.png c h a n t s , <space> w h e t h e r <space> C o m m i s s a r y <space> W a l k e r <space> h a s <space> e n -
+valid/306-20.png g a g e d <space> S a l t <space> o f <space> t h e m : <space> i f <space> h e <space> h a s , <space> y o u <space> h a v e
+valid/306-21.png t h e n <space> o n l y <space> t o <space> f o r w a r d <space> i t <space> u p .
+valid/306-22.png A l e x a n d r i a : <space> D e c e m b e r <space> 5 t h . <space> 1 7 5 5 .
+valid/306-24.png 8 t h . <space> T o <space> C a p t a i n <space> R o b e r t <space> S t e w a r t ,
+valid/306-25.png a t <space> W i n c h e s t e r .
+valid/306-26.png Y o u <space> a r e <space> h e r e b y <space> r e q u i r e d <space> t o <space> t a k e
+valid/306-27.png c h a r g e <space> o f <space> t h e <space> R e c r u i t s <space> s e n t <space> t o <space> W i n c h e s t e r <space> b y
+valid/306-28.png C a p t a i n <space> G i s t , <space> w h o s e <space> S o n <space> y o u <space> m u s t <space> O r d e r
+valid/306-29.png t o <space> p r o c e e d <space> i m m e d i a t e l y <space> a n d <space> j o i n <space> h i s <space> F a t h e r .
+valid/306-30.png C a p t a i n <space> G i s t <space> t h i s <space> d a y <space> r e c e i v e d
+valid/306-31.png o n e <space> h u n d r e d <space> p o u n d s <space> t o <space> r e c r u i t <space> w i t h ; <space> a n d
+valid/306-32.png t h e <space> s a m e <space> O r d e r s <space> t h a t <space> w e r e <space> g i v e n <space> t o <space> t h e <space> o -
+valid/306-33.png t h e r <space> o f f i c e r s <space> o n <space> t h e <space> 3 r d . <space> i n s t a n t <space> V c .
+valid/306-34.png G . W .
+valid/306-35.png A l e x a n d r i a : <space> D e c e m b e r <space> 8 t h . <space> 1 7 5 5 .
+valid/307-02.png L e t t e r s <space> O r d e r s <space> a n d <space> I n s t r u c t i o n s . <space> D e c e m b e r <space> 1 7 5 5 .
+valid/307-04.png 1 0 t h . <space> A l e x a n d r i a <space> D e c e m b e r <space> 1 0 t h . <space> 1 7 5 5 .
+valid/307-05.png A <space> S e r g e a n t <space> a n d <space> t w e l v e <space> m e n , <space> t o <space> b e
+valid/307-06.png i n <space> r e a d i n e s s <space> t o <space> e s c o r t <space> a <space> w a g g o n <space> u p <space> t o <space> W i n c h e s t e r <space> t o -
+valid/307-07.png m o r r o w .
+valid/307-09.png 1 1 t h . <space> T o <space> S e r g e a n t <space> C a m p b e l l , <space> o f <space> t h e <space> V i r g i n i a <space> R e g i m e n t .
+valid/307-10.png Y o u <space> a r e <space> t o <space> b e <space> p a r t i c u l a r l y <space> c a r e f u l <space> o f <space> t h e
+valid/307-11.png W a g g o n s <space> V c . <space> u n d e r <space> y o u r <space> c h a r g e , <space> a n d <space> a r e <space> t o <space> s e e <space> t h a t <space> c e n t i -
+valid/307-12.png n e l s <space> a r e <space> k e p t <space> o v e r <space> t h e m . <space> I f <space> a n y <space> j u s t <space> c o m p l a i n t <space> i s <space> m a d e
+valid/307-13.png o f <space> t h e <space> m i s b e h a v i o u r <space> o f <space> t h e <space> p a r t y <space> u n d e r <space> y o u r <space> c o m m a n d ,
+valid/307-14.png u p o n <space> t h e i r <space> m a r c h , <space> y o u <space> w i l l <space> b e <space> p u n i s h e d <space> b y <space> a <space> C o u r t <space> M a r -
+valid/307-15.png t i a l <space> - . <space> Y o u <space> a r e <space> t o <space> s e e <space> t h a t <space> t h e <space> w a g g o n e r s <space> d o <space> n o t <space> l o i t e r
+valid/307-16.png o r <space> i d l e <space> t h e i r <space> t i m e ; <space> b u t <space> m a k e <space> t h e <space> u t m o s t <space> d i s p a t c h <space> t o
+valid/307-17.png W i n c h e s t e r . <space> S o <space> s o o n <space> a s <space> y o u <space> a r r i v e <space> a t <space> W i n c h e s t e r , <space> y o u
+valid/307-18.png a r e <space> t o <space> d e l i v e r <space> t h e <space> t h i n g s <space> t o <space> t h e <space> C o m m i s s a r y <space> t h e r e , <space> a n d
+valid/307-19.png a r e <space> t o <space> t a k e <space> h i s <space> r e c e i p t <space> f o r <space> t h e m .
+valid/307-20.png G i v e n <space> a t <space> A l e x a n d r i a , <space> V c . <space> D e c e m b e r
+valid/307-21.png 1 1 t h . <space> 1 7 5 5 .
+valid/307-22.png G . W . <space> A i d e <space> d e <space> c a m p .
+valid/307-24.png 1 6 t h . <space> T o <space> C a p t a i n s ' <space> S a v a g e <space> a n d <space> M c . K e n z i e
+valid/307-25.png Y o u <space> a r e <space> o r d e r e d <space> t o <space> r e m a i n <space> h e r e <space> w i t h
+valid/307-26.png y o u r <space> R e c r u i t s <space> u n t i l <space> f u r t h e r <space> o r d e r s . <space> S o <space> s o o n <space> a s <space> y o u <space> a r -
+valid/307-27.png r i v e <space> h e r e , <space> y o u r <space> m e n <space> w i l l <space> b e <space> s u p p l i e d <space> w i t h <space> C l o t h e s <space> b y
+valid/307-28.png a p p l y i n g <space> t o <space> M a j o r <space> C a r l y l e . <space> I f <space> a n y <space> o f <space> y o u r <space> m e n
+valid/307-29.png s h o u l d <space> d e s e r t , <space> y o u <space> a r e <space> t o <space> u s e <space> y o u r <space> u t m o s t <space> d i l i -
+valid/307-30.png g e n c e <space> i n <space> p u r s u i n g <space> a n d <space> a p p r e h e n d i n g <space> t h e m , <space> b y <space> i m -
+valid/307-31.png m e d i a t e l y <space> a d v e r t i s i n g , <space> a n d <space> s e n d i n g <space> a <space> p a r t y <space> o r
+valid/307-32.png p a r t i e s <space> a f t e r <space> t h e m .
+valid/307-33.png A l e x a n d r i a : <space> D e c e m b e r <space> 1 6 , <space> 1 7 5 5 .
+valid/307-35.png 1 6 t h . <space> T o <space> E n s i g n <space> B u c k n e r . <space> Q u a r t e r <space> M a s t e r <space> t o <space> t h e <space> V i r g i n i a
+valid/307-36.png R e g i m e n t . <space> - <space> T h e <space> R e c r u i t s <space> n o w <space> i n <space> t h i s <space> t o w n <space> a r e <space> t o <space> r e -

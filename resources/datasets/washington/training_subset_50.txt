@@ -1,0 +1,262 @@
+train/270-01.png 2 7 0 . <space> L e t t e r s , <space> O r d e r s <space> a n d <space> I n s t r u c t i o n s . <space> O c t o b e r <space> 1 7 5 5 .
+train/270-03.png o n l y <space> f o r <space> t h e <space> p u b l i c k <space> u s e , <space> u n l e s s <space> b y <space> p a r t i c u -
+train/270-04.png l a r <space> O r d e r s <space> f r o m <space> m e . <space> Y o u <space> a r e <space> t o <space> s e n d
+train/270-05.png d o w n <space> a <space> B a r r e l <space> o f <space> F l i n t s <space> w i t h <space> t h e <space> A r m s , <space> t o
+train/270-06.png W i n c h e s t e r , <space> a n d <space> a b o u t <space> t w o <space> t h o u s a n d <space> w e i g h t
+train/270-07.png o f <space> F l o u r , <space> f o r <space> t h e <space> t w o <space> C o m p a n i e s <space> o f <space> R a n g e r s ;
+train/270-08.png t w e l v e <space> h u n d r e d <space> o f <space> w h i c h <space> t o <space> b e <space> d e l i v e r e d
+train/270-09.png C a p t a i n <space> A s h b y <space> a n d <space> C o m p a n y , <space> a t <space> t h e
+train/270-10.png P l a n t a t i o n <space> o f <space> C h a r l e s <space> S e l l a r s <space> - <space> t h e <space> r e s t <space> t o <space> C a p t a i n
+train/270-11.png C o c k e s ' <space> C o m p a n y , <space> a t <space> N i c h o l a s <space> R e a s m e r s .
+train/270-12.png O c t o b e r <space> 2 6 t h . <space> G . W .
+train/270-14.png 2 8 t h <space> W i n c h e s t e r : <space> O c t o b e r <space> 2 8 t h , <space> 1 7 5 5 .
+train/270-15.png P a r o l e <space> H a m p t o n .
+train/270-16.png T h e <space> O f f i c e r s <space> w h o <space> c a m e <space> d o w n
+train/270-17.png f r o m <space> F o r t <space> C u m b e r l a n d <space> w i t h <space> C o l o n e l
+train/270-18.png W a s h i n g t o n , <space> a r e <space> i m m e d i a t e l y <space> t o <space> g o <space> R e c r u i -
+train/270-19.png t i n g ; <space> a n d <space> t h e y <space> a r e <space> a l l o w e d <space> u n t i l <space> t h e <space> 1 s t . <space> o f <space> D e -
+train/270-20.png c e m b e r ; <space> a t <space> w h i c h <space> t i m e <space> i f <space> t h e y <space> d o <space> n o t
+train/270-21.png p u n c t u a l l y <space> a p p e a r <space> a t <space> t h e <space> p l a c e <space> o f <space> R e n d e z -
+train/270-22.png v o u s <space> a s s i g n e d <space> t h e m , <space> t h e y <space> w i l l <space> b e <space> t r i e d <space> b y <space> a
+train/270-23.png C o u r t <space> M a r t i a l , <space> f o r <space> d i s o b e d i e n c e <space> o f <space> O r d e r s .
+train/270-24.png T h e y <space> a r e <space> t o <space> w a i t <space> u p o n <space> t h e <space> A i d <space> d e <space> c a m p
+train/270-25.png a t <space> o n e <space> o f <space> t h e <space> C l o c k , <space> t o <space> r e c e i v e <space> t h e i r <space> R e c r u i -
+train/270-26.png t i n g <space> I n s t r u c t i o n s . <space> E a c h <space> O f f i c e r <space> p r e s e n t , <space> t o <space> g i v e
+train/270-27.png i n <space> a <space> R e t u r n <space> i m m e d i a t e l y <space> o f <space> t h e <space> n u m b e r
+train/270-28.png o f <space> m e n <space> h e <space> h a s <space> e n l i s t e d . <space> - <space> O n e <space> S u b a l t e r n ,
+train/270-29.png o n e <space> S e r g e a n t , <space> o n e <space> C o r p o r a l , <space> o n e <space> D r u m m e r ,
+train/270-30.png a n d <space> t w e n t y <space> f i v e <space> p r i v a t e <space> m e n , <space> a r e <space> t o <space> m o u n t
+train/270-31.png G u a r d <space> t o <space> - <space> d a y , <space> a n d <space> t o <space> b e <space> r e l i e v e d <space> t o <space> - <space> m o r r o w
+train/270-32.png a t <space> t e n <space> o ' c l o c k . <space> - . <space> A l l <space> R e p o r t s <space> a n d <space> R e t u r n s
+train/270-33.png a r e <space> t o <space> b e <space> m a d e <space> t o <space> t h e <space> A i d <space> d e <space> C a m p .
+train/271-02.png L e t t e r s , <space> O r d e r s <space> a n d <space> I n s t r u c t i o n s . <space> O c t o b e r <space> 1 7 5 5 . <space> - <space> 2 7 1 .
+train/271-04.png 2 8 t h . <space> T o <space> E n s i g n <space> F l e m i n g , <space> o f <space> t h e <space> V i r g i n i a <space> R e g i m e n t .
+train/271-05.png Y o u <space> a r e <space> h e r e b y <space> o r d e r e d <space> t o <space> r e p a i r <space> t o
+train/271-06.png C a p t a i n <space> H o g g ' s <space> C o m p a n y <space> a t <space> F o r t <space> D i n w i d d i e
+train/271-07.png w i t h <space> e i g h t <space> g o o d <space> m e n : <space> a s <space> t h a t <space> C o m p a n y <space> i s
+train/271-08.png w i t h o u t <space> a <space> S u r g e o n , <space> i f <space> y o u <space> w i l l <space> d o <space> t h a t <space> d u t y , <space> a n
+train/271-09.png a l l o w a n c e <space> w i l l <space> b e <space> m a d e <space> y o u <space> f o r <space> i t . <space> Y o u <space> a r e
+train/271-10.png t o <space> p r o v i d e <space> m e d i c i n e s , <space> V c . <space> u p o n <space> t h e <space> b e s t <space> t e r m s
+train/271-11.png y o u <space> c a n . <space> T h i s <space> O r d e r <space> I <space> e x p e c t <space> w i l l <space> b e <space> i m m e d i -
+train/271-12.png a t e l y <space> c o m p l i e d <space> w i t h ; <space> a n d <space> t h a t <space> n o <space> D e l a y s <space> b e <space> o f -
+train/271-13.png f e r e d . <space> Y o u <space> a r e <space> t o <space> a c c o u n t <space> w i t h <space> C a p t a i n <space> B e l l
+train/271-14.png f o r <space> y o u r <space> r e c r u i t i n g <space> m o n e y , <space> b e f o r e <space> y o u <space> l e a v e <space> h i m .
+train/271-15.png I f <space> y o u <space> s h o u l d <space> a r r i v e <space> a t <space> A u g u s t a <space> C o u r t <space> H o u s e
+train/271-16.png b e f o r e <space> S e r g e a n t <space> W i l p e r <space> a n d <space> h i s <space> P a r t y , <space> y o u <space> a r e <space> t o
+train/271-17.png h a l t <space> t h e r e <space> u n t i l <space> h e <space> j o i n s , <space> i n <space> o r d e r <space> t o <space> e s c o r t <space> t h e
+train/271-18.png A m m u n i t i o n , <space> V c . <space> f o r <space> t h e <space> F o r t ; <space> w h e r e <space> y o u <space> w i l l
+train/271-19.png r e c e i v e <space> C l o t h e s <space> a n d <space> A r m s <space> f o r <space> t h e <space> M e n .
+train/271-21.png 2 8 t h . <space> T o <space> C a p t a i n <space> B e l l <space> o f <space> t h e <space> V i r g i n i a <space> R e g i m e n t .
+train/271-22.png I <space> h a v e <space> O r d e r e d <space> E n s i g n <space> F l e m i n g
+train/271-23.png t o <space> R e p a i r <space> t o <space> C a p t a i n <space> H o g g s <space> C o m p a n y <space> w i t h <space> e i g h t
+train/271-24.png g o o d <space> m e n ; <space> w h i c h <space> I <space> e x p e c t <space> y o u <space> w i l l <space> s e e <space> i m m e d i -
+train/271-25.png a t e l y <space> c o m p l i e d <space> w i t h . <space> H e <space> i s <space> t o <space> a c c o u n t <space> w i t h <space> y o u
+train/271-26.png f o r <space> h i s <space> r e c r u i t i n g <space> m o n e y <space> b e f o r e <space> h e <space> l e a v e s <space> y o u .
+train/271-27.png Y o u <space> a r e <space> h e r e b y <space> o r d e r e d , <space> p e r e m p t o r i l y , <space> t o <space> b e <space> a t
+train/271-28.png t h i s <space> p l a c e <space> w i t h <space> w h a t <space> m e n <space> y o u <space> h a v e , <space> o r <space> c a n <space> e n -
+train/271-29.png l i s t <space> b y <space> t h e <space> 1 s t . <space> o f <space> D e c e m b e r . <space> Y o u r <space> l a t e <space> d i s o b e d i -
+train/271-30.png e n c e <space> o f <space> O r d e r s <space> h a s <space> g r e a t l y <space> d i s p l e a s e d <space> m e . <space> I t <space> i s
+train/271-31.png i m p o s s i b l e <space> t o <space> c a r r y <space> o n <space> a f f a i r s <space> a s <space> t h e y <space> o u g h t <space> t o <space> b e ,
+train/271-32.png w h e n <space> y o u <space> p a y <space> s o <space> l i t t l e <space> r e g a r d <space> t o <space> t h e <space> F o r c e <space> o f <space> a
+train/271-33.png M i l i t a r y <space> O r d e r <space> - <space> Y o u <space> m u s t <space> b e <space> c o n s c i o u s <space> w i t h i n
+train/271-34.png y o u r s e l f <space> ( o r <space> a t <space> l e a s t <space> o u g h t <space> t o <space> b e ) <space> t h a t <space> y o u r <space> C r i m e
+train/271-35.png i s <space> s u f f i c i e n t <space> t o <space> B r e a k <space> t h e <space> b e s t <space> O f f i c e r <space> t h a t <space> e v e r
+train/271-36.png b o r e <space> a <space> C o m m i s s i o n .
+train/272-02.png 2 7 2 . <space> L e t t e r s , <space> O r d e r s <space> a n d <space> I n s t r u c t i o n s . <space> O c t o b e r
+train/272-04.png 2 8 t h . <space> T o <space> C a p t a i n <space> P e t e r <space> H o g g , <space> o f <space> t h e <space> V i r g i n i a
+train/272-05.png R e g i m e n t .
+train/272-06.png S i r ,
+train/272-07.png I <space> r e c e i v e d <space> y o u r s <space> o f <space> t h e <space> 6 t h . <space> o f <space> O c t o -
+train/272-08.png b e r , <space> i n c l o s i n g <space> t h e <space> R e t u r n s <space> o f <space> y o u r <space> C o m p a n y ,
+train/272-09.png o n l y <space> t h i s <space> d a y . <space> F e r g u s o n <space> w a s <space> s e n t <space> a f t e r
+train/272-10.png y o u , <space> b u t <space> f a l l i n g <space> i l l , <space> b y <space> a <space> S o r e <space> o n <space> h i s <space> a r m , <space> w a s
+train/272-11.png o r d e r e d <space> t o <space> h a l t <space> h e r e , <space> w h e r e <space> h e <space> n o w <space> r e m a i n s
+train/272-12.png u n f i t <space> f o r <space> D u t y : <space> t h e r e f o r e <space> I <space> h a v e <space> s e n t
+train/272-13.png i n <space> h i s <space> r o o m . <space> S e r g e a n t <space> W i l p e r <space> h a s <space> r e c e i v e d
+train/272-14.png f r o m <space> F o r t <space> C u m b e r l a n d <space> a n d <space> t h i s <space> p l a c e
+train/272-15.png A r m s <space> a n d <space> C l o t h i n g <space> t o <space> c o m p l e t e <space> y o u r <space> C o m p a -
+train/272-16.png n y <space> t o <space> t h e <space> E s t a b l i s h m e n t . <space> H e <space> h a s <space> e n l i s t e d
+train/272-17.png t h r e e <space> m e n <space> o n <space> h i s <space> m a r c h , <space> a n d <space> I <space> h a v e <space> o r -
+train/272-18.png d e r e d <space> E n s i g n <space> F l e m i n g , <space> w i t h <space> e i g h t <space> o t h e r s , <space> t o
+train/272-19.png j o i n <space> y o u ; <space> h e <space> b e i n g <space> a <space> S u r g e o n , <space> h e <space> i s <space> d e s i r e d <space> t o
+train/272-20.png t a k e <space> c a r e <space> o f <space> y o u r <space> C o m p a n y ; <space> f o r <space> w h i c h <space> h e
+train/272-21.png w i l l <space> b e <space> a l l o w e d . <space> Y o u <space> m u s t <space> u s e <space> y o u r <space> b e s t
+train/272-22.png e n d e a v o u r s <space> t o <space> s e c u r e <space> y o u r <space> p r o v i s i o n s , <space> a n d <space> d o
+train/272-23.png w i t h <space> i t <space> a s <space> y o u <space> s e e <space> m o s t <space> n e e d f u l <space> : - <space> I t <space> i s <space> i m p o s s i -
+train/272-24.png b l e <space> I <space> c a n <space> d i r e c t <space> a b o u t <space> i t <space> a t <space> t h i s <space> d i s t a n c e ,
+train/272-25.png p r o p e r l y . <space> A s <space> w e <space> h a v e <space> c o n t r a c t e d <space> f o r <space> a
+train/272-26.png l a r g e <space> q u a n t i t y <space> o f <space> B e e f <space> a l r e a d y , <space> y o u <space> a r e
+train/272-27.png d e s i r e d <space> t o <space> e n g a g e <space> n o <space> m o r e <space> t h a n <space> w h a t <space> w i l l
+train/272-28.png s u f f i c e <space> f o r <space> y o u r <space> o w n <space> C o m p a n y . <space> I <space> s h a l l
+train/272-29.png s e e <space> t h a t <space> m o n e y <space> i s <space> l o d g e d <space> w i t h <space> M r . <space> D i c k
+train/272-30.png f o r <space> y o u r <space> u s e <space> w h e n <space> I <space> s e e <space> h i m . <space> Y o u <space> a r e <space> t o
+train/272-31.png s e e <space> t h e <space> u s u a l <space> s t o p p a g e s <space> f r o m <space> t h e <space> m e n s
+train/272-32.png p a y <space> w h i l e <space> t h e y <space> a r e <space> i n <space> t h e <space> H o s p i t a l , <space> t o
+train/272-33.png a n s w e r <space> t h e <space> e x p e n c e <space> o f <space> N u r s e s , <space> V c .
+train/272-34.png Y o u <space> m u s t <space> b e <space> v e r y <space> c a r e f u l <space> n o t <space> t o <space> s l i p
+train/272-35.png t h e <space> o p p o r t u n i t y <space> o f <space> p u r c h a s i n g <space> G r a i n <space> f o r <space> y o u r
+train/272-36.png C o m p a n y , <space> t h a t <space> b e i n g <space> y o u r <space> o n l y <space> d e p e n d a n c e
+train/273-01.png L e t t e r s , <space> O r d e r s <space> a n d <space> I n s t r u c t i o n s . <space> O c t o b e r <space> 1 7 5 5 . <space> 2 7 3 .
+train/273-03.png f o r <space> B r e a d ; <space> t h e <space> C o m m i s s a r y <space> h a v i n g <space> n o <space> O r d e r s <space> t o
+train/273-04.png m a k e <space> p r o v i s i o n s <space> f o r <space> y o u . <space> I f <space> a n y <space> o f <space> y o u r <space> m e n
+train/273-05.png s h o u l d <space> d e s e r t <space> o r <space> d i e , <space> y o u <space> a r e <space> i m m e d i a t e l y <space> t o
+train/273-06.png R e c r u i t <space> o t h e r s , <space> k e e p i n g <space> y o u r <space> C o m p a n y <space> t o <space> t h e <space> E s t a -
+train/273-07.png b l i s h m e n t .
+train/273-09.png 2 8 t h . <space> T o <space> L i e u t e n a n t <space> B a c o n <space> o f <space> t h e <space> M a r y l a n d
+train/273-10.png I n d e p e n d a n t <space> C o m p a n y .
+train/273-11.png S i r ,
+train/273-12.png A s <space> t h o s e <space> S t o c k a d e s <space> o n <space> P a t t e r s o n s <space> C r e e k ,
+train/273-13.png a r e <space> o n l y <space> i n t e n d e d <space> b y <space> w a y <space> o f <space> c o v e r <space> t o <space> t h e <space> R a n g e r s , <space> a n d
+train/273-14.png a s <space> a <space> R e c e p t a c l e <space> n o w <space> a n d <space> t h e n <space> f o r <space> P r o v i s i o n s ; <space> y o u <space> a r e
+train/273-15.png d e s i r e d <space> n o t <space> t o <space> p l a n <space> a n y <space> w o r k , <space> w h i c h <space> r e q u i r e s <space> m u c h
+train/273-16.png t i m e <space> t o <space> e x e c u t e . <space> W e <space> h a v e <space> n e i t h e r <space> M e n <space> n o r <space> T o o l s ,
+train/273-17.png t o <space> c a r r y <space> o n <space> t h e <space> u n d e r t a k i n g <space> w i t h <space> v i g o u r .
+train/273-18.png I <space> a m <space> V c . <space> G . W .
+train/273-20.png 2 9 t h . <space> T o <space> L i e u t e n a n t <space> C o l o n e l <space> A d a m <space> S t e p h e n ,
+train/273-21.png o f <space> t h e <space> V i r g i n i a <space> R e g i m e n t .
+train/273-22.png Y o u <space> a r e <space> h e r e b y <space> O r d e r e d , <space> s o <space> s o o n <space> a s
+train/273-23.png t h e <space> W a g g o n s <space> a r r i v e <space> f r o m <space> A l e x a n d r i a <space> a n d <space> F o r t
+train/273-24.png C u m b e r l a n d , <space> w i t h <space> C l o t h i n g <space> a n d <space> A r m s , <space> t o <space> s e e
+train/273-25.png t h e <space> m e n <space> c o m p l e t e l y <space> f u r n i s h e d <space> w i t h <space> b o t h ; <space> a n d
+train/273-26.png m a r c h <space> t h e m <space> i m m e d i a t e l y <space> t o <space> F o r t <space> C u m b e r l a n d ;
+train/273-27.png o b s e r v i n g <space> t o <space> t a k e <space> u p <space> a l l <space> t h e <space> S a l t <space> w h i c h <space> t h e
+train/273-28.png w a g g o n s , <space> p r o v i d e d <space> b y <space> t h e <space> c o m m i s s a r y , <space> w i l l <space> c a r r y .
+train/273-29.png T h e r e <space> w i l l <space> c o m e <space> d o w n <space> s o m e <space> o f <space> t h e <space> c o u n t r y <space> w a g -
+train/273-30.png g o n s , <space> w h i c h <space> m u s t <space> a l s o <space> b e <space> l o a d e d <space> u p <space> w i t h <space> S a l t .
+train/273-31.png A s <space> t h e r e <space> i s <space> s o m e <space> c l o t h i n g <space> w a n t i n g <space> t o <space> c o m p l e t e
+train/273-32.png t h e <space> C o m p a n i e s <space> a t <space> F o r t <space> C u m b e r l a n d , <space> y o u <space> a r e
+train/273-33.png t o <space> t a k e <space> u p <space> f o r <space> t h a t <space> p u r p o s e <space> f o r t y <space> C o a t s , <space> t h i r t y <space> - <space> n i n e
+train/273-34.png w a i s t c o a t s , <space> a n d <space> f i f t y <space> - <space> s i x <space> p a i r <space> o f <space> B r e e c h e s ; <space> t h i r t y <space> -
+train/273-35.png e i g h t <space> H a t s <space> a n d <space> e i g h t y <space> S h i r t s ; <space> w h i c h <space> y o u <space> a r e <space> t o <space> h a v e
+train/274-01.png 2 7 4 . <space> L e t t e r s , <space> O r d e r s <space> a n d <space> I n s t r u c t i o n s . <space> O c t o b e r <space> 1 7 5 5 .
+train/274-03.png d e l i v e r e d <space> o u t <space> t o <space> t h e <space> C o m p a n i e s , <space> a c c o r d i n g
+train/274-04.png t o <space> t h e <space> R e t u r n <space> m a d e <space> m e <space> a t <space> F o r t <space> C u m -
+train/274-05.png b e r l a n d , <space> O c t o b e r <space> 2 6 t h . <space> - <space> I <space> h a v e <space> s e n t <space> m o r e
+train/274-06.png S u i t s <space> t h a n <space> a r e <space> n e c e s s a r y , <space> i n <space> c a s e <space> o f <space> g e t t i n g
+train/274-07.png a <space> R e c r u i t <space> V c . <space> Y o u <space> m u s t <space> d o <space> t h e <space> b e s t <space> y o u
+train/274-08.png c a n <space> i n <space> L o d g i n g <space> t h e <space> m e n , <space> a s <space> t h e <space> B a r r a c k s
+train/274-09.png i n <space> t h e <space> F o r t <space> a r e <space> f u l l . <space> A s <space> S e r g e a n t <space> W i l -
+train/274-10.png p e r <space> i s <space> w a i t i n g <space> t h e <space> r e t u r n <space> o f <space> t h e <space> w a g g o n s
+train/274-11.png f r o m <space> t h e <space> F o r t , <space> f o r <space> n e c e s s a r i e s <space> f o r <space> C a p t a i n
+train/274-12.png H o g g s <space> C o m p a n y ; <space> s o <space> s o o n <space> a s <space> t h e y <space> a r r i v e ,
+train/274-13.png y o u <space> a r e <space> t o <space> s e e <space> t h a t <space> h e <space> r e c e i v e s <space> s u c h
+train/274-14.png t h i n g s <space> a s <space> h e <space> h a s <space> o r d e r s <space> f o r , <space> a n d <space> d i s p a t c h
+train/274-15.png h i m <space> i m m e d i a t e l y . <space> I f <space> n o <space> o t h e r <space> H o r s e s , <space> b e l o n g -
+train/274-16.png i n g <space> t o <space> t h e <space> C o u n t r y , <space> c a n <space> b e <space> h a d <space> h e r e , <space> o n e
+train/274-17.png o f <space> t h e <space> C o u n t r y <space> T e a m s <space> m u s t <space> b e <space> s t o p p e d ,
+train/274-18.png a n d <space> t h e <space> h o r s e s <space> g i v e n <space> t o <space> h i m . <space> Y o u <space> m u s t
+train/274-19.png e n g a g e <space> t h e <space> h e r d s m e n <space> t o <space> r e m a i n <space> w i t h
+train/274-20.png t h e <space> C a t t l e , <space> u n t i l <space> t h e y <space> h e a r <space> f r o m <space> t h e <space> C o m -
+train/274-21.png m i s s a r y <space> o r <space> f r o m <space> m e . <space> Y o u <space> m u s t <space> e n g a g e
+train/274-22.png a l l <space> t h e <space> C o o p e r s <space> y o u <space> c a n <space> t o <space> m a k e <space> B a r r e l s
+train/274-23.png f o r <space> p a c k i n g <space> t h e <space> B e e f ; <space> a n d <space> i f <space> a n y <space> o f <space> t h e
+train/274-24.png S o l d i e r s <space> a r e <space> C o o p e r s , <space> t h e y <space> m u s t <space> b e <space> s e t <space> i m -
+train/274-25.png m e d i a t e l y <space> t o <space> w o r k . <space> Y o u <space> a r e <space> t o <space> r e c e i v e
+train/274-26.png f r o m <space> t h e <space> S t o r e s <space> h e r e <space> t h i r t y <space> p o u n d s <space> o f
+train/274-27.png G o o s e <space> - <space> w h i c h <space> y o u <space> w i l l <space> d e l i v e r <space> t o
+train/274-28.png C a p t a i n <space> A s h b y ' s <space> C o m p a n y <space> a s <space> y o u <space> p a s s
+train/274-29.png b y , <space> d i r e c t i n g <space> h i m <space> t o <space> b e <space> p a r t i c u l a r l y <space> c a r e -
+train/274-30.png f u l <space> o f <space> i t . <space> - <space> I f <space> e i t h e r <space> o f <space> t h e <space> C a p t a i n s <space> o f
+train/274-31.png t h e <space> R a n g e r s <space> s h o u l d <space> a p p l y <space> t o <space> y o u <space> f o r <space> A m m u -
+train/274-32.png n i t i o n , <space> y o u <space> a r e <space> t o <space> s u p p l y <space> h i m <space> f r o m <space> t h e
+train/274-33.png F o r t . <space> A <space> D r u m m e r , <space> w i t h <space> h i s <space> D r u m , <space> i s
+train/274-34.png t o <space> b e <space> s e n t <space> f r o m <space> t h i s <space> p l a c e <space> w i t h <space> S e r g e a n t
+train/274-35.png W i l p e r , <space> i n <space> t h e <space> r o o m <space> o f <space> D u n c a n <space> F e r g u s o n ,
+train/275-01.png L e t t e r s , <space> O r d e r s <space> a n d <space> I n s t r u c t i o n s . <space> O c t o b e r <space> 1 7 5 5 . <space> 2 7 5 .
+train/275-03.png w h o <space> i s <space> t o <space> g o <space> u p <space> t o <space> F o r t <space> C u m b e r l a n d . <space> Y o u <space> a r e <space> t o <space> s e e
+train/275-04.png t h a t <space> t h e <space> m e n <space> o f <space> t h e <space> V i r g i n i a <space> R e g i m e n t <space> a r e <space> e x e r -
+train/275-05.png c i s e d <space> a s <space> o f t e n <space> e v e r y <space> d a y <space> a s <space> t h e <space> d u t y <space> w i l l <space> a d m i t ;
+train/275-06.png a n d <space> t h a t <space> t h e y <space> a r e <space> p r a c t i s e d <space> a l s o <space> i n <space> s h o o t i n g <space> a t <space> T a r -
+train/275-07.png g e t s ; <space> a n d <space> i f <space> t h e r e <space> a r e <space> a n y <space> w h o <space> a r e <space> r e m a r k a b l y
+train/275-08.png a w k w a r d , <space> p a r t i c u l a r <space> p a i n s <space> m u s t <space> b e <space> t a k e n <space> w i t h
+train/275-09.png t h e m . <space> Y o u <space> m u s t <space> o b s e r v e <space> o n <space> y o u r <space> m a r c h <space> g o o d
+train/275-10.png o r d e r <space> a n d <space> d i s c i p l i n e , <space> a n d <space> s e e <space> t h a t <space> n o <space> i r r e g u -
+train/275-11.png l a r i t i e s <space> h a p p e n ; <space> a n d <space> t h a t <space> t h e <space> m e n <space> a r e <space> n o t
+train/275-12.png a l l o w e d <space> t o <space> p i l l a g e <space> t h e <space> C o u n t r y , <space> w h i c h <space> w a s <space> v e r y
+train/275-13.png m u c h <space> c o m p l a i n e d <space> o f <space> i n <space> t h e <space> l a s t <space> D e t a c h m e n t .
+train/275-14.png Y o u <space> a r e <space> t o <space> a p p l y <space> t o <space> M a j o r <space> L e w i s <space> f o r <space> t h e <space> I n -
+train/275-15.png s t r u c t i o n s <space> w h i c h <space> I <space> l e f t <space> w i t h <space> h i m , <space> a n d <space> s e e
+train/275-16.png t h a t <space> t h e y <space> a r e <space> o b s e r v e d .
+train/275-17.png G i v e n <space> u n d e r <space> m y <space> H a n d <space> V c .
+train/275-18.png W i n c h e s t e r , <space> O c t o b e r <space> G . W .
+train/275-19.png 2 9 t h . <space> 1 7 5 5 .
+train/275-21.png 2 9 t h . <space> T o <space> M r . <space> C o m m i s s a r y <space> D i c k
+train/275-22.png Y o u <space> a r e , <space> s o <space> s o o n <space> a s <space> y o u <space> a r r i v e <space> h e r e , <space> t o
+train/275-23.png g i v e <space> s u c h <space> d i r e c t i o n s <space> a s <space> y o u <space> s h a l l <space> s e e <space> n e c e s s a r y <space> a b o u t
+train/275-24.png d r i v i n g <space> t h e <space> C a t t l e <space> t o <space> F o r t <space> C u m b e r l a n d . <space> Y o u <space> a r e
+train/275-25.png t o <space> s e n d <space> u p <space> D o c t o r <space> W a l k e r , <space> o r <space> g o <space> y o u r s e l f <space> t h e r e , <space> t o
+train/275-26.png s e e <space> t h e m <space> k i l l e d <space> a n d <space> p r o p e r l y <space> s a l t e d . <space> W h i c h e v e r <space> o f
+train/275-27.png y o u <space> r e m a i n s <space> h e r e , <space> m u s t <space> p u r c h a s e <space> s u c h <space> a <space> q u a n t i t y
+train/275-28.png o f <space> P o r k <space> a s <space> y o u <space> i m a g i n e <space> w i l l <space> b e <space> n e c e s s a r y <space> f o r <space> t h e
+train/275-29.png T r o o p s , <space> u p o n <space> t h e <space> m o s t <space> r e a s o n a b l e <space> t e r m s <space> y o u <space> c a n ; <space> a n d
+train/275-30.png o b l i g e <space> t h e m <space> t o <space> d e l i v e r <space> i t <space> a t <space> w h a t e v e r <space> t i m e <space> y o u <space> s h a l l
+train/275-31.png j u d g e <space> m o s t <space> p r o p e r . <space> Y o u <space> a r e <space> t o <space> a n s w e r , <space> o u t <space> o f <space> t h e <space> m o n e y
+train/275-32.png i n <space> y o u r <space> h a n d s , <space> w h a t e v e r <space> D r a u g h t s <space> C a p t a i n <space> H o g g
+train/275-33.png m a y <space> d r a w <space> o n <space> y o u <space> f o r <space> t h e <space> s u b s i s t a n c e <space> o f <space> h i s <space> C o m p a n y ,
+train/275-34.png f r o m <space> t i m e <space> t o <space> t i m e . <space> Y o u <space> a r e <space> t o <space> s e e <space> t h a t <space> C o o p e r s <space> a r e
+train/275-35.png e n g a g e d <space> t o <space> m a k e <space> B e r r e l s <space> f o r <space> t h e <space> P r o v i s i o n s , <space> a n d <space> t o
+train/276-02.png 2 7 6 . <space> L e t t e r s <space> O r d e r s <space> a n d <space> I n s t r u c t i o n s . <space> O c t o b e r <space> 1 7 5 5 .
+train/276-04.png p r o v i d e <space> a l l <space> o t h e r <space> n e c e s s a r i e s <space> f o r <space> t h e <space> E x p e d i t i o n ,
+train/276-05.png w h i c h <space> y o u <space> k n o w <space> w i l l <space> b e <space> w a n t e d
+train/276-06.png A s <space> t h e r e <space> a r e <space> s e v e r a l <space> C o n t r a c t s <space> m a d e <space> b y <space> m e <space> t o
+train/276-07.png h a v e <space> C a t t l e <space> d e l i v e r e d <space> h e r e <space> V c . <space> b y <space> t h e <space> 1 s t . <space> o f <space> n e x t
+train/276-08.png m o n t h , <space> - <space> I <space> d e s i r e <space> t h a t <space> f o r <space> s u c h <space> a s <space> y o u <space> r e c e i v e <space> u p -
+train/276-09.png o n <space> t h a t <space> a c c o u n t , <space> i f <space> y o u <space> h a v e <space> m o n e y <space> i n <space> y o u r
+train/276-10.png h a n d s , <space> y o u <space> m a k e <space> i m m e d i a t e <space> p a y m e n t .
+train/276-11.png G i v e n <space> V c .
+train/276-12.png W i n c h e s t e r <space> O c t o b e r <space> G . W .
+train/276-13.png 2 9 t h . <space> 1 7 5 5
+train/276-15.png 2 9 t h . <space> W i n c h e s t e r <space> O c t o b e r <space> 2 9 t h . <space> 1 7 5 5 .
+train/276-16.png P a r o l e <space> W i l l i a m s b u r g h .
+train/276-17.png O n e <space> S u b a l t e r n , <space> o n e <space> S e r g e a n t , <space> o n e
+train/276-18.png C o r p o r a l , <space> o n e <space> D r u m m e r <space> a n d <space> t w e n t y <space> f i v e <space> p r i v a t e
+train/276-19.png m e n , <space> t h e <space> G u a r d <space> t o <space> - <space> d a y <space> - <space> C a p t a i n <space> P e a c h y <space> i s
+train/276-20.png o r d e r e d <space> t o <space> t a k e <space> u p o n <space> h i m <space> t h e <space> c o m m a n d
+train/276-21.png o f <space> t h e <space> R e c r u i t s <space> w h i c h <space> a r r i v e d <space> h e r e <space> u n d e r
+train/276-22.png L i e u t e n a n t <space> H a l l <space> a n d <space> E n s i g n <space> P r i c e ; <space> w h o <space> a r e
+train/276-23.png a l s o <space> o r d e r e d <space> t o <space> a c t <space> u n d e r <space> h i m , <space> u n t i l <space> f u r t h e r
+train/276-24.png o r d e r s - <space> E n s i g n <space> H e d g e m a n , <space> a n d <space> t h e <space> R e c r u i t s
+train/276-25.png w h i c h <space> a r r i v e d <space> w i t h <space> h i m , <space> a r e <space> o r d e r e d <space> t o <space> j o i n
+train/276-26.png L i e u t e n a n t <space> K i n g , <space> a n d <space> b e <space> u n d e r <space> h i s <space> c o m m a n d
+train/276-27.png u n t i l <space> f u r t h e r <space> o r d e r s - <space> L i e u t e n a n t <space> E u s t a c e , <space> a n d
+train/276-28.png t h e <space> e i g h t <space> m e n <space> w i t h <space> h i m , <space> a r e <space> t o <space> j o i n <space> ( a s <space> s o o n <space> a s
+train/276-29.png t h e y <space> a r r i v e <space> a t <space> F o r t <space> C u m b e r l a n d ) <space> t h e <space> C o m p a n y
+train/276-30.png w h i c h <space> C a p t a i n <space> W a g g e n e r <space> c o m m a n d s <space> a t <space> p r e s e n t ; <space> -
+train/276-31.png a n d <space> t h e <space> P a r t y <space> l e f t <space> w i t h <space> S e r g e a n t <space> S h a w , <space> i s <space> t o <space> r e -
+train/276-32.png t u r n <space> t o <space> t h e i r <space> r e s p e c t i v e <space> C o m p a n i e s , <space> s o <space> s o o n <space> a s
+train/276-33.png t h e y <space> r e a c h <space> t h e <space> F o r t <space> - <space> T h e <space> C o m m i s s a r y <space> i s <space> t o <space> s e e
+train/276-34.png t h a t <space> t h e <space> M a g a z i n e <space> i s <space> s e c u r e d , <space> b y <space> f a s t e n i n g
+train/276-35.png u p <space> t h e <space> w i n d o w s <space> V c . <space> b e t t e r <space> t h a n <space> t h e y <space> n o w <space> a r e .
+train/276-36.png T h e <space> O f f i c e r s <space> a r e <space> t o <space> s e e <space> t h a t <space> t h e <space> m e n <space> a r e <space> c l o -
+train/277-02.png L e t t e r s , <space> O r d e r s <space> a n d <space> I n s t r u c t i o n s . <space> O c t o b e r <space> 1 7 5 5 . <space> - <space> 2 7 7 .
+train/277-04.png t h e d <space> t o <space> - <space> m o r r o w , <space> a n d <space> t o <space> b e <space> v e r y <space> p a r t i c u l a r <space> i n <space> t h e i r <space> A c c o u n t s
+train/277-05.png o f <space> w h a t <space> t h e y <space> r e c e i v e . <space> T h e y <space> w i l l <space> a l s o <space> r e c e i v e <space> A r m s <space> s o
+train/277-06.png s o o n <space> a s <space> t h e y <space> a r r i v e <space> f r o m <space> F o r t <space> C u m b e r l a n d , <space> t o <space> c o m p l e t e <space> t h e i r
+train/277-07.png R e c r u i t s . <space> T h e y <space> a r e <space> t o <space> s e e <space> t h a t <space> e a c h <space> m a n <space> d i s t i n g u i s h e s
+train/277-08.png h i s <space> F i r e l o c k <space> b y <space> s o m e <space> p a r t i c u l a r <space> m a r k , <space> w h i c h <space> t h e <space> S u b -
+train/277-09.png a l t e r n s <space> o f <space> t h e <space> C o m p a n y <space> a r e <space> t o <space> e n t e r <space> i n <space> a <space> B o o k , <space> t h e y <space> a r e
+train/277-10.png t o <space> k e e p <space> f o r <space> t h a t <space> p u r p o s e . <space> E v e r y <space> O f f i c e r <space> i s <space> t o <space> p r o v i d e <space> a n
+train/277-11.png O r d e r l y <space> B o o k <space> t o <space> e n t e r <space> t h e <space> O r d e r s <space> i n <space> a s <space> t h e y <space> i s s u e <space> e v e r y
+train/277-12.png d a y <space> r e g u l a r l y , <space> t h a t <space> t h e y <space> m a y <space> e x a m i n e <space> t h e m <space> o f t e n ,
+train/277-13.png a n d <space> s e e <space> t h e y <space> a r e <space> d u l y <space> c o m p l i e d <space> w i t h . <space> C a p t a i n
+train/277-14.png B r o n a u g h , <space> L i e u t e n a n t <space> S t e w a r t , <space> B l e g g <space> a n d <space> W i l l i a m s ,
+train/277-15.png s e n t <space> R e c r u i t i n g , <space> a n d <space> t o <space> R e n d e z v o u s <space> a t <space> A l e x a n d r i -
+train/277-16.png a , <space> t h e <space> 1 s t <space> o f <space> D e c e m b e r .
+train/277-17.png G . W .
+train/277-19.png 3 1 s t . <space> T o <space> C a p t a i n <space> R o b e r t <space> S p o t s w o o d , <space> o f <space> t h e
+train/277-20.png V i r g i n i a <space> R e g i m e n t .
+train/277-21.png Y o u <space> a r e <space> h e r e b y <space> o r d e r e d , <space> a s <space> s o o n <space> a s
+train/277-22.png t h e <space> C l o t h e s <space> a n d <space> A r m s <space> a r r i v e , <space> t o <space> f u r n i s h <space> a l l <space> t h e
+train/277-23.png m e n <space> w h o <space> n o w <space> R e n d e z v o u s <space> a t <space> F r e d e r i c k s b u r g h ,
+train/277-24.png w i t h <space> b o t h ; <space> a n d <space> m a r c h <space> t h e m <space> i m m e d i a t e l y
+train/277-25.png w i t h <space> t h e <space> u t m o s t <space> d i s p a t c h <space> t o <space> F o r t <space> C u m b e r l a n d ,
+train/277-26.png t o <space> r e i n f o r c e <space> t h e <space> G a r r i s o n . <space> - <space> W h e n <space> y o u <space> a r r i v e <space> a t
+train/277-27.png W i n c h e s t e r , <space> y o u <space> m u s t <space> p r o v i d e <space> y o u r <space> m e n <space> w i t h <space> C a r -
+train/277-28.png t r i d g e s . <space> - <space> Y o u <space> a r e <space> t o <space> b e <space> v e r y <space> c a r e f u l <space> a n d <space> c i r c u m -
+train/277-29.png s p e c t <space> i n <space> y o u r <space> m a r c h ; <space> a n d <space> s e e <space> t h a t <space> y o u r <space> m e n
+train/277-30.png d o <space> n o t <space> o n <space> a n y <space> a c c o u n t <space> w h a t s o e v e r , <space> p l u n d e r <space> o r
+train/277-31.png p i l l a g e <space> t h e <space> H o u s e s <space> w h i c h <space> t h e <space> p e o p l e <space> h a v e <space> d e s e r t e d ,
+train/277-32.png o r <space> a n y <space> o t h e r s , <space> - <space> o r <space> P l a n t a t i o n s . <space> - <space> L i e u t e n a n t <space> F r a -
+train/277-33.png z i e r <space> a n d <space> E n s i g n <space> C a r t e r , <space> a r e <space> a p p o i n t e d <space> t o <space> t h i s <space> C o m -
+train/277-34.png m a n d
+train/277-35.png G i v e n <space> V c .
