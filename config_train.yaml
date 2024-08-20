@@ -1,5 +1,5 @@
 common:
-  experiment_dirname: /home/pool/pylaia_test/PyLaia_LLM/models/experiments_100
+  experiment_dirname: /home/pool/pylaia_test/PyLaia_LLM/models/experiments_50_50
   monitor: va_cer
 data:
   batch_size: 7
@@ -13,10 +13,10 @@ scheduler:
   active: true
   monitor: va_loss
 syms: resources/datasets/washington/syms.txt
-tr_txt_table: /home/pool/pylaia_test/PyLaia_LLM/resources/datasets/washington/training_subset_100.txt
+tr_txt_table: /home/pool/pylaia_test/PyLaia_LLM/resources/datasets/washington/mixed_train_50_50.txt
 train:
   augment_training: true
-  early_stopping_patience: 110
+  early_stopping_patience: 100
 trainer:
   auto_select_gpus: true
   gpus: 1

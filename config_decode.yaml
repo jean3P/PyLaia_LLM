@@ -1,5 +1,5 @@
 common:
-  experiment_dirname: /home/pool/pylaia_test/PyLaia_LLM/models/experiments_100
+  experiment_dirname: /home/pool/pylaia_test/PyLaia_LLM/models/experiments_50_50
 decode:
   convert_spaces: true
   join_string: ''

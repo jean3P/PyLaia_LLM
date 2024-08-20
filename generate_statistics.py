@@ -54,6 +54,7 @@ def calculate_mean(data, key, field):
     values = [item[key][field] for item in data if key in item and field in item[key]]
     return sum(values) / len(values) if values else None
 
+
 # Example usage
 # directory_path = 'path_to_mistral_data'
 # filename = 'mistral_file.json'
@@ -107,8 +108,11 @@ def calculate_label_change_percentages(directory, file_name):
     # Calculate and format percentages
     same_label_cer_0_percentage = round((same_label_cer_0_count / total_cer_0 * 100) if total_cer_0 else 0, 2)
     modified_label_cer_0_percentage = round((modified_label_cer_0_count / total_cer_0 * 100) if total_cer_0 else 0, 2)
-    same_label_cer_greater_than_0_percentage = round((same_label_cer_greater_than_0_count / total_cer_greater_than_0 * 100) if total_cer_greater_than_0 else 0, 2)
-    modified_label_cer_greater_than_0_percentage = round((modified_label_cer_greater_than_0_count / total_cer_greater_than_0 * 100) if total_cer_greater_than_0 else 0, 2)
+    same_label_cer_greater_than_0_percentage = round(
+        (same_label_cer_greater_than_0_count / total_cer_greater_than_0 * 100) if total_cer_greater_than_0 else 0, 2)
+    modified_label_cer_greater_than_0_percentage = round(
+        (modified_label_cer_greater_than_0_count / total_cer_greater_than_0 * 100) if total_cer_greater_than_0 else 0,
+        2)
 
     return {
         "same_label_cer_0_percentage": same_label_cer_0_percentage,
@@ -120,7 +124,8 @@ def calculate_label_change_percentages(directory, file_name):
 
 def generate_latex_table(automated_results_dir, results_test_trocr_dir,
                          self_training_file_name_ocr_75, final_test_file_name_ocr_75_25, final_test_file_name_ocr_75,
-                         self_training_file_name_mistral_75, final_test_file_name_mistral_75, final_test_file_name_mistral_75_25):
+                         self_training_file_name_mistral_75, final_test_file_name_mistral_75,
+                         final_test_file_name_mistral_75_25):
     """
     Generates a LaTeX table with CER values and label change percentages for OCR and Mistral evaluations.
 
@@ -141,14 +146,18 @@ def generate_latex_table(automated_results_dir, results_test_trocr_dir,
     # Assuming the 'calculate_cer_values' and 'calculate_label_change_percentages' functions are defined as before
 
     # Generate CER values for OCR and Mistral
-    cer_values_ocr_self = calculate_cer_values(automated_results_dir, self_training_file_name_mistral_75, results_test_trocr_dir, self_training_file_name_ocr_75)
-    cer_values_ocr_final_75 = calculate_cer_values(automated_results_dir, final_test_file_name_mistral_75, results_test_trocr_dir, final_test_file_name_ocr_75)
-    cer_values_ocr_final_75_25 = calculate_cer_values(automated_results_dir, final_test_file_name_mistral_75_25, results_test_trocr_dir, final_test_file_name_ocr_75_25)
+    cer_values_ocr_self = calculate_cer_values(automated_results_dir, self_training_file_name_mistral_75,
+                                               results_test_trocr_dir, self_training_file_name_ocr_75)
+    cer_values_ocr_final_75 = calculate_cer_values(automated_results_dir, final_test_file_name_mistral_75,
+                                                   results_test_trocr_dir, final_test_file_name_ocr_75)
+    cer_values_ocr_final_75_25 = calculate_cer_values(automated_results_dir, final_test_file_name_mistral_75_25,
+                                                      results_test_trocr_dir, final_test_file_name_ocr_75_25)
 
     # Generate label change percentages for Mistral
     label_changes_self = calculate_label_change_percentages(automated_results_dir, self_training_file_name_mistral_75)
     label_changes_final_75 = calculate_label_change_percentages(automated_results_dir, final_test_file_name_mistral_75)
-    label_changes_final_75_25 = calculate_label_change_percentages(automated_results_dir, final_test_file_name_mistral_75_25)
+    label_changes_final_75_25 = calculate_label_change_percentages(automated_results_dir,
+                                                                   final_test_file_name_mistral_75_25)
 
     dict = {
         "Self-training": cer_values_ocr_self,
@@ -161,14 +170,14 @@ def generate_latex_table(automated_results_dir, results_test_trocr_dir,
     return dict
 
 
-self_training_file_name_ocr_75 = "evaluation_from_pylaia_75_with_remaining_25_test.json"
-final_test_file_name_ocr_75_25 = "evaluation_from_pylaia_75_25_with_final_test_after_mixed.json"
-final_test_file_name_ocr_75 = "evaluation_from_pylaia_100_with_final_test.json"
+self_training_file_name_ocr_75 = "evaluation_from_pylaia_25_with_remaining_75_test.json"
+final_test_file_name_ocr_75_25 = "evaluation_from_pylaia_25_75_with_final_test_after_mixed.json"
+final_test_file_name_ocr_75 = "evaluation_from_pylaia_25_with_final_test.json"
 
 # Mistral Files
-self_training_file_name_mistral_75 = "evaluation_from_mistral_75_with_remaining_25_test.json"
-final_test_file_name_mistral_75 = "evaluation_from_mistral_100_with_final_test.json"
-final_test_file_name_mistral_75_25 = "evaluation_from_mistral_75_with_final_test_75_25_test.json"
+self_training_file_name_mistral_75 = "evaluation_from_mistral_25_with_remaining_75_test.json"
+final_test_file_name_mistral_75 = "evaluation_from_mistral_25_with_final_test.json"
+final_test_file_name_mistral_75_25 = "evaluation_from_mistral_25_with_final_test_25_75_test.json"
 
 # Directory paths
 directory_path_mistral = outputs_evaluation_mistral
@@ -186,4 +195,13 @@ latex_code = generate_latex_table(
     final_test_file_name_mistral_75_25=final_test_file_name_mistral_75_25
 )
 
-print(latex_code)
+
+def print_results_table(results):
+    for key, value in results.items():
+        print(f"\n{key}:")
+        for sub_key, sub_value in value.items():
+            print(f"{sub_key}: {sub_value}%")
+
+
+# Call the function to print the table
+print_results_table(latex_code)

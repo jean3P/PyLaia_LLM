@@ -23,10 +23,11 @@ def extract_mistral_labels(json_path, output_path):
 
     with open(output_path, 'w') as out_file:
         for entry in data:
-            file_name = entry['file_name'].split('.')[0]  # Get the base file name without extension
-            predicted_label = entry['MISTRAL']['predicted_label']
-            tokenized_label = tokenize(predicted_label)  # Convert to tokenized format
-            out_file.write(f"train/{file_name}.png {tokenized_label}\n")  # Write to the file in the specified format
+            if entry['MISTRAL']['cer'] <= 50:  # Check if cer is 50% or less
+                file_name = entry['file_name'].split('.')[0]  # Get the base file name without extension
+                predicted_label = entry['MISTRAL']['predicted_label']
+                tokenized_label = tokenize(predicted_label)  # Convert to tokenized format
+                out_file.write(f"train/{file_name}.png {tokenized_label}\n")  # Write to the file in the specified format
 
     print(f"Labels extracted to {output_path}")
 

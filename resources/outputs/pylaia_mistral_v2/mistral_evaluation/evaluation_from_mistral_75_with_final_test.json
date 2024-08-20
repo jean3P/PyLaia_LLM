@@ -1,0 +1,977 @@
+[
+    {
+        "file_name": "308-01.png",
+        "ground_truth_label": "308 letters orders and instructions december 1755",
+        "OCR": {
+            "predicted_label": "2t letters orders and instrrecttons december 175",
+            "cer": 42.86,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "20th Letters, Orders, and Instructions, December 1755",
+            "cer": 20.41,
+            "confidence": 99,
+            "justification": "The number '2t' is corrected to '20th' as it seems to be a mistake in the original text. The addition of commas and capitalization of 'Orders' and 'Instructions' improves the sentence structure and readability."
+        }
+    },
+    {
+        "file_name": "308-06.png",
+        "ground_truth_label": "are with all possible dispath to procure a suf",
+        "OCR": {
+            "predicted_label": "are wwith all pofsille dispautih to proeure a sefo",
+            "cer": 55.56,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "are with all possibles dispatch to procure a seafarer",
+            "cer": 17.39,
+            "confidence": 90,
+            "justification": "The word 'wwith' is replaced with 'with' as it seems to be a contextually appropriate correction. The word 'all' is replaced with 'all possibles' as it seems to be a contextually appropriate correction. The word 'dispautih' is replaced with 'dispatch' as it seems to be"
+        }
+    },
+    {
+        "file_name": "308-04.png",
+        "ground_truth_label": "the stores vc and to be under the same directions",
+        "OCR": {
+            "predicted_label": "the bores fe and to be under the same direeltions",
+            "cer": 30.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "the Stores, &c., and to be under the same directions",
+            "cer": 10.2,
+            "confidence": 90,
+            "justification": "The word 'thes' is replaced with 'the Stores' as it seems to be a contextually appropriate correction. The addition of 'to be' after '&c.' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "308-07.png",
+        "ground_truth_label": "ficient number of waggons to carry them to win",
+        "OCR": {
+            "predicted_label": "ficient meumnber of os agons to carry them to fin",
+            "cer": 44.44,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "sufficient number of wagons to carry them to town",
+            "cer": 15.22,
+            "confidence": 90,
+            "justification": "The word'meumnber' is replaced with 'number' as it seems to be a contextually appropriate correction. The addition of 'of' after 'number' and 'to' after 'town' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "308-08.png",
+        "ground_truth_label": "chester whither they are to be sent under the",
+        "OCR": {
+            "predicted_label": "chester whither they are to be sent render the",
+            "cer": 11.11,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "Chester, whither they are to be sent, render the",
+            "cer": 11.11,
+            "confidence": 90,
+            "justification": "The word 'chester' is replaced with 'Chester' as it seems to be a contextually appropriate correction. The addition of 'whither' after 'Chester' improves the sentence structure. The word 'they' is replaced with 'the' as it seems to be a contextually appropriate correction. The word"
+        }
+    },
+    {
+        "file_name": "308-09.png",
+        "ground_truth_label": "escort of the soldiers now here except the suits",
+        "OCR": {
+            "predicted_label": "esot of the foldiers nows here enespt the cuit",
+            "cer": 55.56,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "'The foldiers now here expect the cuit'",
+            "cer": 33.33,
+            "confidence": 90,
+            "justification": "The word 'esot' is replaced with 'The' as it seems to be a contextually appropriate correction. The word 'nows' is replaced with 'now' as it seems to be a mistake in the original text. The word 'here' is replaced with 'here' as it seems to"
+        }
+    },
+    {
+        "file_name": "308-03.png",
+        "ground_truth_label": "remain here until the arrival of the vessel with",
+        "OCR": {
+            "predicted_label": "remain here until the arival of the wspel ilh",
+            "cer": 33.33,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "remain here until the arrival of the vessel",
+            "cer": 10.42,
+            "confidence": 90,
+            "justification": "The word 'wspel' is replaced with'vessel' as it seems to be a contextually appropriate correction. The addition of 'to be' after 'arrival' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "308-05.png",
+        "ground_truth_label": "as before ordered so soon as the stores arrive you",
+        "OCR": {
+            "predicted_label": "as before oordered if soon as the foes arive you",
+            "cer": 40.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "as before ordered. As soon as the Stores arrive, you",
+            "cer": 10.0,
+            "confidence": 95,
+            "justification": "The word 'To' is replaced with 'As' as it seems to be a contextually appropriate correction. The addition of 'As' before'soon' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "308-16.png",
+        "ground_truth_label": "conveniently quartered on their march up there",
+        "OCR": {
+            "predicted_label": "comnoeniently drantered on thieis manch up here",
+            "cer": 71.43,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "conveniently drawn on these men's hands here",
+            "cer": 43.48,
+            "confidence": 90,
+            "justification": "The word 'comnoeniently' is replaced with 'conveniently' as it seems to be a contextually appropriate correction. The word 'drantered' is replaced with 'drawn' as it seems to be a mistake in the original text. The word 'thieis' is replaced"
+        }
+    },
+    {
+        "file_name": "308-13.png",
+        "ground_truth_label": "things delivered into the waggons and see that",
+        "OCR": {
+            "predicted_label": "things deliveredl into the ssaggons and see that",
+            "cer": 25.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "Things delivered into the wagons, and see that",
+            "cer": 6.52,
+            "confidence": 80,
+            "justification": "The word 'Nuggets' is replaced with 'wagons' as it seems to be a contextually appropriate correction. The removal of one 'into' and the addition of'see' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "308-10.png",
+        "ground_truth_label": "of clothes shoes stocking shirts vc proportiona",
+        "OCR": {
+            "predicted_label": "of clothes hhoes eochings thirts ver propationa",
+            "cer": 71.43,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "of Clothes; Shoes, Stockings, Shirts, &c.: proportionate",
+            "cer": 29.79,
+            "confidence": 85,
+            "justification": "The word 'hhoes' is replaced with 'Shoes' as it seems to be a contextually appropriate correction. The addition of 'to be' after '&c.' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "308-17.png",
+        "ground_truth_label": "will be a number of tents among the stores which",
+        "OCR": {
+            "predicted_label": "will he a mumber of fints among the wtores whil",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "will he a number of fints among the wagons while",
+            "cer": 20.83,
+            "confidence": 90,
+            "justification": "The word 'wtores' is replaced with 'wagons' as it seems to be a contextually appropriate correction. The addition of 'among' after 'number' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "308-14.png",
+        "ground_truth_label": "a strict guard is kept over them that no embez",
+        "OCR": {
+            "predicted_label": "a thict urard is hept oer them that n embey",
+            "cer": 60.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "a thick guard is over them that are embarked",
+            "cer": 32.61,
+            "confidence": 90,
+            "justification": "The word 'thict' is replaced with 'thick' as it seems to be a contextually appropriate correction. The word 'urard' is replaced with 'guard' as it seems to be a contextually appropriate correction. The word 'n embey' is replaced"
+        }
+    },
+    {
+        "file_name": "308-15.png",
+        "ground_truth_label": "zlement is made if your men can not be",
+        "OCR": {
+            "predicted_label": "gement is made tf your oten sam not be",
+            "cer": 44.44,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "'gement is made tf your oten sam not be'.",
+            "cer": 23.68,
+            "confidence": 90,
+            "justification": "The word 'tf' is replaced with 'if' as it seems to be a contextually appropriate correction. The addition of 'not' after'sam' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "308-11.png",
+        "ground_truth_label": "bly which are to be left with colonel carlyle",
+        "OCR": {
+            "predicted_label": "bly which are to be beft with coloicl carlyles",
+            "cer": 33.33,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "by which are to be bestowed with colonial carriages",
+            "cer": 31.11,
+            "confidence": 90,
+            "justification": "The word 'bly' is replaced with 'by' as it seems to be a contextually appropriate correction. The word 'beft' is replaced with 'bestowed' as it seems to be a contextually appropriate correction. The word 'carlyles' is replaced with 'carriages' as"
+        }
+    },
+    {
+        "file_name": "308-12.png",
+        "ground_truth_label": "you are to be very careful of all the",
+        "OCR": {
+            "predicted_label": "you ure to he ery carshul of al the",
+            "cer": 55.56,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "you are to hear all the",
+            "cer": 40.54,
+            "confidence": 90,
+            "justification": "The word 'you' is replaced with 'you are' as it seems to be a contextually appropriate correction. The addition of 'all' after 'hear' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "308-19.png",
+        "ground_truth_label": "should desert from this place  it would be proper",
+        "OCR": {
+            "predicted_label": "should deivert from this placey itf would be prgper",
+            "cer": 44.44,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "should deivert from this place, it would be proper",
+            "cer": 6.25,
+            "confidence": 90,
+            "justification": "The word 'placey' is replaced with 'place' as it seems to be a contextually appropriate correction. The addition of 'from' after 'place' and 'it would be proper' after 'it' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "308-20.png",
+        "ground_truth_label": "to send a sergeant and one or two trusty men",
+        "OCR": {
+            "predicted_label": "to send a strgeanit and one o tawo truisty men",
+            "cer": 40.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "to send a strong and one of two trusty men",
+            "cer": 13.64,
+            "confidence": 90,
+            "justification": "The word'strgeanit' is replaced with'strong' as it seems to be a contextually appropriate correction. The word 'o' is replaced with 'of' as it seems to be a contextually appropriate correction. The word 'tawo' is replaced with 'two' as"
+        }
+    },
+    {
+        "file_name": "308-25.png",
+        "ground_truth_label": "16th to doctor james craik of the virginia",
+        "OCR": {
+            "predicted_label": "h to botor iames craih of the vtirginia",
+            "cer": 62.5,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "To Doctor James Craik, of the Virginia",
+            "cer": 26.19,
+            "confidence": 99,
+            "justification": "The word 'Frank' is replaced with 'Craik' as it seems to be a contextually appropriate correction. The addition of 'To' at the beginning and 'of the' after 'Craik' improves the sentence"
+        }
+    },
+    {
+        "file_name": "308-18.png",
+        "ground_truth_label": "must be made use of  if any of the soldiers",
+        "OCR": {
+            "predicted_label": "must bhe made nse of  if any of the soldiers",
+            "cer": 20.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "must be made use of, if any of the soldiers",
+            "cer": 2.38,
+            "confidence": 90,
+            "justification": "The word 'bhe' is replaced with 'be' as it seems to be a contextually appropriate correction. The addition of 'of' after 'be' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "308-22.png",
+        "ground_truth_label": "given at alexandria vc",
+        "OCR": {
+            "predicted_label": "given at e rlevundria vc",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "given at Elizabeth Town, &c.",
+            "cer": 68.18,
+            "confidence": 90,
+            "justification": "The word 'e rlevundria' is replaced with 'Elizabeth Town' as it seems to be a contextually"
+        }
+    },
+    {
+        "file_name": "308-23.png",
+        "ground_truth_label": "december 16th 1755",
+        "OCR": {
+            "predicted_label": "deccmber 12755",
+            "cer": 100.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "December 1755",
+            "cer": 33.33,
+            "confidence": 99,
+            "justification": "The year '12755'"
+        }
+    },
+    {
+        "file_name": "308-21.png",
+        "ground_truth_label": "in pursuit of them",
+        "OCR": {
+            "predicted_label": "in prursuit of thems",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "in pursuit of them",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'thems' is replaced with 'them' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "308-26.png",
+        "ground_truth_label": "regiment",
+        "OCR": {
+            "predicted_label": "geyiment",
+            "cer": 100.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "government",
+            "cer": 62.5,
+            "confidence": 99,
+            "justification": "The word 'geyiment' is"
+        }
+    },
+    {
+        "file_name": "308-29.png",
+        "ground_truth_label": "the first opportunity that offers of conveying up",
+        "OCR": {
+            "predicted_label": "the fiost opportunity that ofers of connveying ap",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "the first opportunity that offers of conveying ap",
+            "cer": 2.04,
+            "confidence": 90,
+            "justification": "The word 'fiost' is replaced with 'first' as it seems to be a contextually appropriate correction. The addition of 'of' after 'offers' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "308-30.png",
+        "ground_truth_label": "your chest and proceeding yourself to winches",
+        "OCR": {
+            "predicted_label": "your bhert and prseeediing yourself to finches",
+            "cer": 42.86,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "your brother and proceeding yourself to Winches",
+            "cer": 15.56,
+            "confidence": 90,
+            "justification": "The word 'bhert' is replaced with 'brother' as it seems to be a contextually appropriate correction. The addition of 'and' after 'brother' and 'proceeding' after 'yourself' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "308-28.png",
+        "ground_truth_label": "stores and medicines arrives you are to embrace",
+        "OCR": {
+            "predicted_label": "bores and medicines arrives you are to embae",
+            "cer": 25.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "bores and medicines arrive, you are to embark",
+            "cer": 12.77,
+            "confidence": 90,
+            "justification": "The word 'bores' is replaced with 'bores' as it seems to be a contextually appropriate correction. The addition of 'and' after 'bores' improves the sentence structure. The word'medicines' is replaced with'medicines' as it seems to"
+        }
+    },
+    {
+        "file_name": "308-32.png",
+        "ground_truth_label": "what you think will be wanting for the hos",
+        "OCR": {
+            "predicted_label": "what you thinh will be wanting for the vor",
+            "cer": 22.22,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "what you think will be wanting for the voyage",
+            "cer": 11.9,
+            "confidence": 90,
+            "justification": "The word 'thinh' is replaced with 'think' as it seems to be a contextually appropriate correction. The addition of 'will be wanting' after 'think' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "308-33.png",
+        "ground_truth_label": "pital and bring them up with you taking",
+        "OCR": {
+            "predicted_label": "pitol and hing them up with you tahing",
+            "cer": 37.5,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "pitol and hing them up with you tahing",
+            "cer": 10.26,
+            "confidence": 90,
+            "justification": "The word 'pitol' is replaced with 'pole' as it seems to be a contextually appropriate correction. The addition of 'and' after 'pitol' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "308-34.png",
+        "ground_truth_label": "care to purchase no more than is absolutely",
+        "OCR": {
+            "predicted_label": "eare to purchase no more than is alsolitely",
+            "cer": 25.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "'eare to purchase no more than is absolutely necessary'",
+            "cer": 30.23,
+            "confidence": 90,
+            "justification": "The word 'alsolitely' is replaced with 'absolutely necessary' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "308-31.png",
+        "ground_truth_label": "ter you are to provide yourself here with",
+        "OCR": {
+            "predicted_label": "ter you are to proride youself bhere with",
+            "cer": 37.5,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "'there you are to provide yourself here with'",
+            "cer": 9.76,
+            "confidence": 90,
+            "justification": "The word 'ter' is replaced with 'there' as it seems to be a contextually appropriate correction. The word 'proride' is replaced with 'provide' as it seems to be a contextually appropriate correction. The word 'bhere' is replaced with"
+        }
+    },
+    {
+        "file_name": "308-27.png",
+        "ground_truth_label": "so soon as the vessel with the",
+        "OCR": {
+            "predicted_label": "to soom as the deel wuith the",
+            "cer": 57.14,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "to soon as the deal with the",
+            "cer": 16.67,
+            "confidence": 90,
+            "justification": "The word'soom' is replaced with'soon' as it seems to be a contextually appropriate correction. The addition of 'as' before'soon' improves"
+        }
+    },
+    {
+        "file_name": "308-35.png",
+        "ground_truth_label": "necessary for the support and relief of the regiment",
+        "OCR": {
+            "predicted_label": "neaary for the sepport and sallif of the beyim",
+            "cer": 44.44,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "near for the support and safety of the beyim",
+            "cer": 30.77,
+            "confidence": 90,
+            "justification": "The word 'neaary' is replaced with 'near' as it seems to be a contextually appropriate correction. The addition of 'for' after 'near' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "309-02.png",
+        "ground_truth_label": "letters orders and instructions december 1755",
+        "OCR": {
+            "predicted_label": "liters orders and instructions december 1755",
+            "cer": 16.67,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "Letters, Orders, and Instructions, December 1755",
+            "cer": 15.56,
+            "confidence": 99,
+            "justification": "The number '30th' is corrected to '308th' as it seems to be a mistake in the original text. The addition of commas and capitalization of 'Orders' and 'Instructions' improves the sentence structure and readability."
+        }
+    },
+    {
+        "file_name": "309-07.png",
+        "ground_truth_label": "16th to captain john mercer of the",
+        "OCR": {
+            "predicted_label": "2th to captcin fohen mercer of the",
+            "cer": 42.86,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "20th to Captain Fowler of the Mercer",
+            "cer": 52.94,
+            "confidence": 90,
+            "justification": "The word '2th' is replaced with '20th' as it seems to be a mistake in the original text. The word 'captcin' is replaced with 'Captain'"
+        }
+    },
+    {
+        "file_name": "309-09.png",
+        "ground_truth_label": "you are immediately upon receipt",
+        "OCR": {
+            "predicted_label": "you are ummediately apon deauipt",
+            "cer": 60.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "you are immediately upon receipt",
+            "cer": 0.0,
+            "confidence": 90,
+            "justification": "The word 'ummediately' is replaced with 'immediately' as it seems to be a contextually appropriate correction. The addition of 'upon' after'receipt' improves the sentence structure"
+        }
+    },
+    {
+        "file_name": "309-04.png",
+        "ground_truth_label": "given at alexandria vc",
+        "OCR": {
+            "predicted_label": "given at leaandria ver",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "given at Leaandria ver",
+            "cer": 22.73,
+            "confidence": 90,
+            "justification": "The word 'leaandria' is replaced with 'Leaandria' as it seems to be a contextually"
+        }
+    },
+    {
+        "file_name": "309-08.png",
+        "ground_truth_label": "virginia regiment",
+        "OCR": {
+            "predicted_label": "wirginia egiment",
+            "cer": 100.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "Virginia Regiment",
+            "cer": 11.76,
+            "confidence": 99,
+            "justification": "The word 'wirginia' is replaced with 'Virginia' as it seems"
+        }
+    },
+    {
+        "file_name": "309-05.png",
+        "ground_truth_label": "december 16th 1755",
+        "OCR": {
+            "predicted_label": "deccmber th 17555",
+            "cer": 100.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "December 1755",
+            "cer": 33.33,
+            "confidence": 99,
+            "justification": "The word 'deccmber' is replaced with 'December'"
+        }
+    },
+    {
+        "file_name": "309-01.png",
+        "ground_truth_label": "p309",
+        "OCR": {
+            "predicted_label": "ofe co5",
+            "cer": 200.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "of the",
+            "cer": 150.0,
+            "confidence": 90,
+            "justification": "The word 'of"
+        }
+    },
+    {
+        "file_name": "309-18.png",
+        "ground_truth_label": "20th parole abbemarle winchester december 20th 1755",
+        "OCR": {
+            "predicted_label": "28th tol sllemeurle i wrchestsr december 2 175",
+            "cer": 100.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "28th tol sllemeurle i wrchestsr december 2 175",
+            "cer": 37.25,
+            "confidence": 90,
+            "justification": "The word 'tol' is replaced with 'to' as it seems to be a contextually appropriate correction. The addition of'sllemeurle' and 'i wrchestsr' improves the"
+        }
+    },
+    {
+        "file_name": "309-10.png",
+        "ground_truth_label": "hereof to repair to winchester where you will meet",
+        "OCR": {
+            "predicted_label": "hereof to repaer to inchester where you will mest",
+            "cer": 33.33,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "hereof, to repair to Winchester, where you will meet",
+            "cer": 6.0,
+            "confidence": 85,
+            "justification": "The word 'never' is replaced with'meet' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "309-11.png",
+        "ground_truth_label": "with colonel washington and receive further orders",
+        "OCR": {
+            "predicted_label": "with colonel farshington and receive fouther aders",
+            "cer": 42.86,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "with Colonel Farshington and receive Fournier Aders",
+            "cer": 18.0,
+            "confidence": 90,
+            "justification": "The word 'colonel' is replaced with 'Colonel' as it seems to be a contextually appropriate correction. The word 'fourther' is replaced with 'Fournier' as it seems to be a contextually appropriate correction. The word 'aders' is replaced with 'Aders' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "309-15.png",
+        "ground_truth_label": "nb a copy left at alexandria and another",
+        "OCR": {
+            "predicted_label": "2 hbopy left at lleaandria and anwther",
+            "cer": 62.5,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "2 hogshead left at Leandria and another",
+            "cer": 32.5,
+            "confidence": 90,
+            "justification": "The word 'hbopy' is replaced with 'hogshead' as it seems to be a contextually appropriate correction. The addition of 'and another' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "309-14.png",
+        "ground_truth_label": "alexandria december 16th 1755",
+        "OCR": {
+            "predicted_label": "alecaundriat december th 1755",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "alecaundriat December 1755",
+            "cer": 31.03,
+            "confidence": 90,
+            "justification": "The word 'th' is replaced with 'December' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "309-16.png",
+        "ground_truth_label": "sent to stafford to him there",
+        "OCR": {
+            "predicted_label": "sant to saford to him there",
+            "cer": 33.33,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "sent to Saxton to him there",
+            "cer": 20.69,
+            "confidence": 90,
+            "justification": "The word'sant' is replaced with'sent' as it seems to be a contextually appropriate correction. The addition of 'to Saxton' after '"
+        }
+    },
+    {
+        "file_name": "309-13.png",
+        "ground_truth_label": "gw aid de camp",
+        "OCR": {
+            "predicted_label": "g aid tecangp",
+            "cer": 75.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "get along",
+            "cer": 85.71,
+            "confidence": 90,
+            "justification": "The word 'g aid tecangp' is replaced with '"
+        }
+    },
+    {
+        "file_name": "309-12.png",
+        "ground_truth_label": "i am vc",
+        "OCR": {
+            "predicted_label": "iam ve",
+            "cer": 100.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "I am ve",
+            "cer": 28.57,
+            "confidence": 90,
+            "justification": "The word '"
+        }
+    },
+    {
+        "file_name": "309-26.png",
+        "ground_truth_label": "22nd parole boston winchester december 22nd 1755",
+        "OCR": {
+            "predicted_label": "2 rarole bostonrt winrchester dember th 1755",
+            "cer": 85.71,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "2nd role Boston to Winchester, December 1755",
+            "cer": 31.25,
+            "confidence": 90,
+            "justification": "The word 'rarole' is replaced with '2nd role' as it seems to be a contextually appropriate correction. The addition of 'to' after 'Boston' and 'Winchester' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "309-21.png",
+        "ground_truth_label": "officers who enlisted them mentioning their height",
+        "OCR": {
+            "predicted_label": "giers who enlsted them mentioneng thiwheight",
+            "cer": 71.43,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "giers who enlisted them mentioning this height",
+            "cer": 12.0,
+            "confidence": 90,
+            "justification": "The word 'enlsted' is replaced with 'enlisted' as it seems to be a contextually appropriate correction. The addition of'mentioning' after'mentioning' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "309-20.png",
+        "ground_truth_label": "ately of the recruits now in this town by the several",
+        "OCR": {
+            "predicted_label": "atly of the recruits non in this tom fy the everal",
+            "cer": 45.45,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "atly of the recruits none in this town, the everal",
+            "cer": 13.21,
+            "confidence": 90,
+            "justification": "The word 'atly' is replaced with 'atly' as it seems to be a contextually appropriate correction. The addition of 'none' after'recruits' and 'the' after 'everal' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "309-23.png",
+        "ground_truth_label": "ants who understand the manual exercise do",
+        "OCR": {
+            "predicted_label": "ants who understand the mamual frdircise do",
+            "cer": 28.57,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "'ants who understand the manual exercise do'",
+            "cer": 4.76,
+            "confidence": 90,
+            "justification": "The word'mamual' is replaced with'manual' as it seems to be a contextually appropriate correction. The addition of 'the' before 'exercise' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "309-22.png",
+        "ground_truth_label": "age trade vc the officers to see that the serge",
+        "OCR": {
+            "predicted_label": "age tade fr the ofier to se that the rrgen",
+            "cer": 50.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "age trade for the officer to see that the regiment",
+            "cer": 21.28,
+            "confidence": 90,
+            "justification": "The word 'tade' is replaced with 'trade' as it seems to be a contextually appropriate correction. The addition of 'for' after 'age' and 'to see' after 'that' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "309-24.png",
+        "ground_truth_label": "drill the recruits at least twice aday",
+        "OCR": {
+            "predicted_label": "hil the recruity at least tovie aday",
+            "cer": 42.86,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "'Hill the recruits at least to vie a day'.",
+            "cer": 23.68,
+            "confidence": 90,
+            "justification": "The word 'hil' is replaced with 'Hill' as it seems to be a contextually appropriate correction. The word 'tovie' is replaced with 'to vie' as it seems to be"
+        }
+    },
+    {
+        "file_name": "309-27.png",
+        "ground_truth_label": "a return is to be made every mor",
+        "OCR": {
+            "predicted_label": "a return is to be made cvery no",
+            "cer": 25.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "a return is to be made every no",
+            "cer": 6.25,
+            "confidence": 90,
+            "justification": "The word 'cvery' is replaced with 'every' as it seems to be a contextually appropriate correction."
+        }
+    },
+    {
+        "file_name": "309-19.png",
+        "ground_truth_label": "a return to be given in immedi",
+        "OCR": {
+            "predicted_label": "es retin to be given in imedr",
+            "cer": 42.86,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "it is to be given in immediate",
+            "cer": 33.33,
+            "confidence": 90,
+            "justification": "The word 'es' is replaced with 'it' as it seems to be a contextually appropriate correction. The addition of 'to be' after 'is' improves the sentence"
+        }
+    },
+    {
+        "file_name": "309-28.png",
+        "ground_truth_label": "ning to colonel washington of the number of",
+        "OCR": {
+            "predicted_label": "ning to colonel wishingtont of the mumber of",
+            "cer": 25.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "'ing to Colonel Wishington of the number of'",
+            "cer": 11.63,
+            "confidence": 90,
+            "justification": "The word 'colon' is replaced with 'Colonel' as it seems to be a contextually appropriate correction. The addition of 'of the' after 'Wishington' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "309-33.png",
+        "ground_truth_label": "up the cask of tools by the first waggon that",
+        "OCR": {
+            "predicted_label": "uf the cath of fols by the fiurst sraggon ohat",
+            "cer": 60.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "of the cat of fols by the first sraggon ohat",
+            "cer": 20.0,
+            "confidence": 90,
+            "justification": "The word 'of' is replaced with 'the' as it seems to be a contextually appropriate correction. The addition of 'the' after 'cat' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "309-31.png",
+        "ground_truth_label": "livered out but by a written order from him or",
+        "OCR": {
+            "predicted_label": "livered ort baut by a siten order fom hinson",
+            "cer": 60.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "delivered or bought by a secret order from Hinson",
+            "cer": 36.96,
+            "confidence": 90,
+            "justification": "The word 'livered' is replaced with 'delivered' as it seems to be a contextually appropriate correction. The word 'ort' is replaced with 'or' as it seems to be a mistake in the original text. The word 'baut' is replaced with 'b"
+        }
+    },
+    {
+        "file_name": "309-35.png",
+        "ground_truth_label": "ed unfit for duty on review are ordered to be",
+        "OCR": {
+            "predicted_label": "d ufit for duty on revien are ordered to be",
+            "cer": 30.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "'d ufit for duty on revien are ordered to be'",
+            "cer": 8.89,
+            "confidence": 90,
+            "justification": "The word 'd' is replaced with 'the' as it seems to be a contextually appropriate correction. The addition of 'the' after 'd' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "309-29.png",
+        "ground_truth_label": "men in this town  and all contingences",
+        "OCR": {
+            "predicted_label": "men in this toom and all contingenes",
+            "cer": 28.57,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "men in this town and all contingents",
+            "cer": 5.41,
+            "confidence": 90,
+            "justification": "The word 'toom' is replaced with 'town' as it seems to be a contextually appropriate correction. The addition of 'and' after 'town' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "309-32.png",
+        "ground_truth_label": "the aid de camp the commissary is to send",
+        "OCR": {
+            "predicted_label": "the aid de camp the commissay is to eend",
+            "cer": 22.22,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "the aid de camp, the commissary is to end",
+            "cer": 4.88,
+            "confidence": 90,
+            "justification": "The word 'the' is replaced with 'the' as it seems to be a contextually appropriate correction. The addition of 'de' after 'camp' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "309-34.png",
+        "ground_truth_label": "goes to the fort the following men being judg",
+        "OCR": {
+            "predicted_label": "your to the irt the foloving men hinggey",
+            "cer": 55.56,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "your to the irt the following men hinggey",
+            "cer": 26.67,
+            "confidence": 90,
+            "justification": "The word 'the' is replaced with 'the' as it seems to be a contextually appropriate correction. The addition of 'to' after 'your' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "309-30.png",
+        "ground_truth_label": "during his stay here no provision is to be de",
+        "OCR": {
+            "predicted_label": "iring his stay here ns provisin is to be de",
+            "cer": 30.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "'iring his stay here as provisions is to be delivered'",
+            "cer": 28.89,
+            "confidence": 90,
+            "justification": "The word 'ns' is replaced with 'as' as it seems to be a contextually appropriate correction. The addition of 'to be delivered' after 'provisions' improves the sentence structure."
+        }
+    },
+    {
+        "file_name": "309-36.png",
+        "ground_truth_label": "discharged viz",
+        "OCR": {
+            "predicted_label": "dis charged miern",
+            "cer": 150.0,
+            "confidence": 0
+        },
+        "MISTRAL": {
+            "predicted_label": "discharged men",
+            "cer": 21.43,
+            "confidence": 90,
+            "justification": "The word'miern' is replaced with'men' as it seems to be a contextually"
+        }
+    }
+]

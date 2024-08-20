@@ -10,6 +10,7 @@ from constants import outputs_path_washington, base_path, models_path, outputs_e
     load_from_json, outputs_evaluation_mistral
 from evaluation import update_config_yaml, calculate_cer, run_decoding_process
 from extract_labels_script import extract_mistral_labels
+from fine_tuning_model import load_model_and_tokenizer, evaluate_model
 from mistral import evaluate_test_data_mistral7B
 from run_pylaia_model import run_pylaia_create_model
 
@@ -28,6 +29,14 @@ def clear_cuda_cache():
 def file_exists(file_name_path):
     # Check if the file exists and return the result
     return os.path.isfile(file_name_path)
+
+
+def fine_tuning_model(test_file, output_name_file, start_percentage):
+    loaded_data = load_from_json(test_file)
+    name_file = f'evaluation_from_mistral_{start_percentage}_with_{output_name_file}.json'
+    model, tokenizer = load_model_and_tokenizer()
+    evaluate_model(loaded_data, model, tokenizer, name_file)
+    return name_file
 
 
 def evaluation_pylaia(test_data_path, subset, type_test, test_ids, base=False):
@@ -127,7 +136,7 @@ def directory_exists(directory_path):
 
 
 def automate_workflow(start_percentage=25, increments=25, max_iterations=3, training_data_path='',
-                      test_data_path='', mistral_model_name=''):
+                      test_data_path=''):
     # First run the PyLaia model
     model_path = os.path.join(base_path, 'config_create_model.yaml')
     model_log_path = os.path.join(base_path, 'pylaia_create_model.log')
@@ -149,23 +158,25 @@ def automate_workflow(start_percentage=25, increments=25, max_iterations=3, trai
             print(f"=== TRAINING - MODEL - {start_percentage} EXISTS PREVIOUSLY ===")
 
         print(f"=== EVALUATE PYLAIA WITH FINAL TEST - {start_percentage} ===")
-        # path_eval_pylaia_final_test_without = evaluation_pylaia(test_data_path, start_percentage, 'final_test', 'test_ids.txt', True)
+        path_eval_pylaia_final_test_without = evaluation_pylaia(test_data_path, start_percentage, 'final_test', 'test_ids.txt', True)
 
         print(f"=== MISTRAL WITHOUT SELF TRAINING WITH FINAL TEST - {start_percentage} ===")
+        fine_tuning_model(path_eval_pylaia_final_test_without, 'final_test', start_percentage)
         # run_mistral(mistral_model_name, True, path_eval_pylaia_final_test_without, start_percentage, 'final_test')
 
         if start_percentage < 100:
             print(
                 f"=== EVALUATE PYLAIA SELF TRAINING - {start_percentage} WITH REMAINING TEST {100 - start_percentage} ===")
-            # path_remaining = os.path.join(outputs_path_washington, 'train_eval.txt')
-            # print(path_remaining)
-            # eval_self_training_test_remaining_path = evaluation_pylaia(path_remaining, start_percentage,
-            #                                                            f'remaining_{100 - start_percentage}_test', remaining_subset, False)
+            path_remaining = os.path.join(outputs_path_washington, 'train_eval.txt')
+            print(path_remaining)
+            eval_self_training_test_remaining_path = evaluation_pylaia(path_remaining, start_percentage,
+                                                                       f'remaining_{100 - start_percentage}_test', remaining_subset, False)
 
             print(f"=== MISTRAL SELF TRAINING - {start_percentage} ===")
+            mistral_file = fine_tuning_model(eval_self_training_test_remaining_path, f'remaining_{100 - start_percentage}_test', start_percentage)
             # mistral_file = run_mistral(mistral_model_name, False, eval_self_training_test_remaining_path,
             #                            start_percentage, f'remaining_{100 - start_percentage}_test')
-            mistral_file = os.path.join(outputs_evaluation_mistral, 'evaluation_from_mistral_50_with_remaining_50_test.json')
+            # mistral_file = os.path.join(outputs_evaluation_mistral, 'evaluation_from_mistral_50_with_remaining_50_test.json')
 
             print(f"=== MERGE - {start_percentage}-{100 - start_percentage} ===")
             extact_txt_file = f"extract_labels_from_mistral_{start_percentage}_{100 - start_percentage}.txt"
@@ -180,8 +191,12 @@ def automate_workflow(start_percentage=25, increments=25, max_iterations=3, trai
             final_eval_from_mixed = evaluation_pylaia(test_data_path, f"{start_percentage}_{100 - start_percentage}",
                                                       'final_test_after_mixed', 'test_ids.txt', True)
             print(f"=== FINAL TEST MISTRAL - {start_percentage}-{100 - start_percentage} ===")
-            run_mistral(mistral_model_name, True, final_eval_from_mixed,
-                                       start_percentage, f'final_test_{start_percentage}_{100 - start_percentage}_test')
+            fine_tuning_model(eval_self_training_test_remaining_path,
+                                             f'final_test_{start_percentage}_{100 - start_percentage}_test',
+                              start_percentage)
+
+            # run_mistral(mistral_model_name, True, final_eval_from_mixed,
+            #                            start_percentage, f'final_test_{start_percentage}_{100 - start_percentage}_test')
 
         start_percentage = start_percentage + increments
 
@@ -189,5 +204,4 @@ def automate_workflow(start_percentage=25, increments=25, max_iterations=3, trai
 if __name__ == "__main__":
     training_data_path = os.path.join(outputs_path_washington, 'train.txt')
     test_data_path = os.path.join(outputs_path_washington, 'test_eval.txt')
-    mistral_model_name = "mistralai/Mistral-7B-v0.1"
-    automate_workflow(50, 50, 1, training_data_path, test_data_path, mistral_model_name)
+    automate_workflow(25, 25, 4, training_data_path, test_data_path)
